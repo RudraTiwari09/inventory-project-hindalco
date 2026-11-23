@@ -1,0 +1,25 @@
+permit_id,spare_description_text,quantity_used,equipment_tag,department,permit_start,permit_end,status,remarks
+PTW-OCT-001,Routine servicing spare 000107,2.0,TAG-02,Mechanical,2026-10-01,2026-10-01,Closed,Servicing completed
+PTW-OCT-002,Routine servicing spare 000108,2.0,TAG-03,Electrical,2026-10-02,2026-10-02,Closed,Servicing completed
+PTW-OCT-003,Routine servicing spare 000109,2.0,TAG-04,Mechanical,2026-10-03,2026-10-03,Closed,Servicing completed
+PTW-OCT-004,Routine servicing spare 000110,2.0,TAG-05,Electrical,2026-10-04,2026-10-04,Closed,Servicing completed
+PTW-OCT-005,Routine servicing spare 000111,2.0,TAG-01,Mechanical,2026-10-05,2026-10-05,Closed,Servicing completed
+PTW-OCT-006,Routine servicing spare 000112,2.0,TAG-02,Electrical,2026-10-06,2026-10-06,Closed,Servicing completed
+PTW-OCT-007,Routine servicing spare 000113,2.0,TAG-03,Mechanical,2026-10-07,2026-10-07,Closed,Servicing completed
+PTW-OCT-008,Routine servicing spare 000114,2.0,TAG-04,Electrical,2026-10-08,2026-10-08,Closed,Servicing completed
+PTW-OCT-009,Routine servicing spare 000115,2.0,TAG-05,Mechanical,2026-10-09,2026-10-09,Closed,Servicing completed
+PTW-OCT-010,Routine servicing spare 000116,2.0,TAG-01,Electrical,2026-10-10,2026-10-10,Closed,Servicing completed
+PTW-OCT-011,Routine servicing spare 000117,2.0,TAG-02,Mechanical,2026-10-11,2026-10-11,Closed,Servicing completed
+PTW-OCT-012,Routine servicing spare 000118,2.0,TAG-03,Electrical,2026-10-12,2026-10-12,Closed,Servicing completed
+PTW-OCT-013,Routine servicing spare 000119,2.0,TAG-04,Mechanical,2026-10-13,2026-10-13,Closed,Servicing completed
+PTW-OCT-014,Routine servicing spare 000120,2.0,TAG-05,Electrical,2026-10-14,2026-10-14,Closed,Servicing completed
+PTW-OCT-015,Routine servicing spare 000121,2.0,TAG-01,Mechanical,2026-10-15,2026-10-15,Closed,Servicing completed
+PTW-OCT-016,Routine servicing spare 000122,2.0,TAG-02,Electrical,2026-10-16,2026-10-16,Closed,Servicing completed
+PTW-OCT-017,Routine servicing spare 000123,2.0,TAG-03,Mechanical,2026-10-17,2026-10-17,Closed,Servicing completed
+PTW-OCT-018,Routine servicing spare 000124,2.0,TAG-04,Electrical,2026-10-18,2026-10-18,Closed,Servicing completed
+PTW-OCT-019,Routine servicing spare 000125,2.0,TAG-05,Mechanical,2026-10-19,2026-10-19,Closed,Servicing completed
+PTW-OCT-020,Routine servicing spare 000126,2.0,TAG-01,Electrical,2026-10-20,2026-10-20,Closed,Servicing completed
+PTW-OCT-021,Routine servicing spare 000127,2.0,TAG-02,Mechanical,2026-10-21,2026-10-21,Closed,Servicing completed
+PTW-OCT-022,Routine servicing spare 000128,2.0,TAG-03,Electrical,2026-10-22,2026-10-22,Closed,Servicing completed
+PTW-OCT-023,Routine servicing spare 000129,2.0,TAG-04,Mechanical,2026-10-23,2026-10-23,Closed,Servicing completed
+PTW-OCT-024,Routine servicing spare 000130,2.0,TAG-05,Electrical,2026-10-24,2026-10-24,Closed,Servicing completed

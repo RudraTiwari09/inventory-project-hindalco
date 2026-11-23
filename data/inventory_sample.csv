@@ -1,0 +1,501 @@
+spare_code,spare_description,category,equipment_tag,department,quantity_in_stock,unit_cost,date_received,last_used_date,expiry_date,criticality_flag
+INV-2824,Angular contact bearing 7308,Instrumentation,EQ-029,Operations,18,64.44,2024-08-22,2026-07-15,2027-05-08,Medium
+INV-1520,Angular contact bearing 7308,Mechanical,EQ-030,Operations,6,358.77,2026-09-10,2026-10-15,,Medium
+INV-9928,Motor control relay 24VDC,Electrical,EQ-076,Production,2,342.01,2025-06-02,2025-06-08,2027-10-03,Medium
+INV-6574,Oil filter element 10 micron,Electrical,EQ-098,Operations,49,822.72,2025-09-30,,,Medium
+INV-6635,Packing gland PTFE 12mm,Instrumentation,EQ-094,Maintenance,4,121.87,2026-06-08,2026-09-12,,High
+INV-6925,Gear oil 220 cSt 20L,Electrical,EQ-006,Maintenance,8,130.29,2025-02-19,2025-05-11,2027-06-05,Medium
+INV-8428,Hex bolt M16x60 grade 8.8,Instrumentation,EQ-048,Operations,14,10.64,2025-11-07,,,Low
+INV-2169,Packing gland PTFE 12mm,Electrical,EQ-021,Operations,13,765.43,2026-06-14,2026-11-03,,Medium
+INV-1916,Spiral wound gasket DN100,Mechanical,EQ-052,Utilities,37,146.4,2025-05-12,,2028-08-16,High
+INV-9179,Motor start capacitor 25uF,Civil,EQ-034,Operations,18,100.39,2024-08-22,,2028-05-02,Medium
+INV-8019,Compressor valve plate,Consumables,EQ-047,Production,24,114.97,2025-02-02,2025-06-23,2027-05-16,Medium
+INV-2796,Centrifugal pump impeller 150mm,Electrical,EQ-077,Production,28,501.33,2024-03-20,2025-11-20,2029-10-29,High
+INV-1188,Spring washer M16 SS,Mechanical,EQ-099,Utilities,35,283.34,2025-10-07,,2029-05-28,High
+INV-5315,Safety relief valve 1 inch,Electrical,EQ-081,Maintenance,7,131.83,2025-07-14,2026-03-30,2027-09-20,Medium
+INV-3646,Lubricating grease EP2 15kg,Consumables,EQ-077,Maintenance,2,119.07,2025-09-04,2025-10-31,2028-08-01,High
+INV-4946,Compressor piston ring set,Consumables,EQ-011,Maintenance,4,762.75,2026-08-02,2026-11-07,2027-07-26,High
+INV-8787,Cooling fan motor 0.75 kW,Consumables,EQ-034,Operations,46,71.82,2026-10-26,2026-11-08,2027-12-27,Medium
+INV-7537,Hex nut M16 galvanised,Instrumentation,EQ-067,Production,27,201.52,2026-05-23,,,Medium
+INV-4770,Compressor oil synthetic 5L,Electrical,EQ-010,Maintenance,1,185.8,2024-03-10,,2028-09-17,High
+INV-4899,Oil filter element 10 micron,Civil,EQ-070,Operations,43,390.42,2024-08-07,2026-03-14,2028-03-22,Medium
+INV-7669,Pump shaft sleeve stainless steel,Mechanical,EQ-085,Maintenance,14,5000.0,2026-04-11,2026-07-25,2027-03-01,Medium
+INV-2612,Thrust ball bearing 51107,Civil,EQ-014,Utilities,8,1024.92,2025-04-03,,2027-08-25,Medium
+INV-5563,Temperature transmitter PT100,Electrical,EQ-057,Maintenance,139,318.1,2024-05-29,,2026-12-11,Low
+INV-4872,Pump mechanical seal type 21,Civil,EQ-062,Production,101,704.94,2025-01-21,2025-03-22,,High
+INV-7396,Flange gasket PTFE 4 inch,Civil,EQ-055,Utilities,3,72.9,2026-08-03,,,Low
+INV-9883,Thrust ball bearing 51107,Instrumentation,EQ-007,Maintenance,12,36.6,2026-07-14,2026-10-31,2027-03-07,Low
+INV-2312,Control panel door seal,Electrical,EQ-077,Maintenance,70,48.62,2024-03-29,2024-11-24,2028-03-29,Medium
+INV-1651,Mechanical packing braided 10mm,Mechanical,EQ-085,Production,31,85.05,2026-10-16,2026-10-24,,Medium
+INV-4910,Flange gasket PTFE 4 inch,Civil,EQ-086,Operations,6,492.03,2025-07-17,2026-11-04,2027-04-08,High
+INV-2638,Gate valve 2 inch DN50,Consumables,EQ-065,Operations,52,710.02,2025-05-07,,,High
+INV-5002,Conveyor belt rubber 500mm,Instrumentation,EQ-057,Operations,59,190.83,2025-07-22,2026-09-08,2026-11-27,Medium
+INV-5905,Lube oil pump gear set,Mechanical,EQ-034,Operations,3,115.8,2024-07-04,2026-08-03,2028-05-21,High
+INV-4450,Pipe flange raised face DN80,Instrumentation,EQ-088,Operations,79,40.05,2025-05-04,2026-01-16,2027-02-23,High
+INV-7939,Vessel manhole cover gasket,Instrumentation,EQ-001,Maintenance,2,915.6,2025-09-24,2026-08-16,2027-10-07,Medium
+INV-8007,Hydraulic oil ISO VG 46 20L,Mechanical,EQ-010,Maintenance,14,1007.94,2024-09-11,2025-09-24,2027-09-10,Medium
+INV-1685,Fuel filter cartridge diesel,Instrumentation,EQ-046,Maintenance,40,83.28,2025-01-14,2025-04-29,,Medium
+INV-7658,Mechanical packing braided 10mm,Electrical,EQ-021,Operations,87,70.43,2024-11-07,2024-12-02,,Low
+INV-7745,Turbine blade inspection cover,Electrical,EQ-021,Utilities,49,223.42,2024-06-19,2024-07-28,2028-02-09,High
+INV-8541,Timing belt HTD 5M 450,Instrumentation,EQ-029,Operations,2,1472.21,2023-12-29,2026-03-24,,Low
+INV-5573,Timing belt HTD 5M 450,Consumables,EQ-087,Production,27,367.17,2025-09-19,2025-11-17,2028-04-28,High
+INV-5349,Cylindrical roller bearing NU2210,Mechanical,EQ-045,Production,29,151.66,2025-08-14,2026-05-02,,Low
+INV-4114,Flange gasket PTFE 4 inch,Mechanical,EQ-001,Production,4,227.46,2026-10-10,2026-10-22,,High
+INV-6409,Mechanical packing braided 10mm,Instrumentation,EQ-093,Maintenance,1,44.59,2025-07-18,2026-06-24,2029-02-12,Medium
+INV-3085,Pump shaft sleeve stainless steel,Civil,EQ-087,Production,28,854.9,2024-11-01,2025-09-05,2026-11-11,Medium
+INV-4443,Contactor 3-phase 40A,Consumables,EQ-060,Utilities,95,128.86,2026-05-03,2026-06-26,2027-10-24,Medium
+INV-5649,Safety relief valve 1 inch,Consumables,EQ-012,Utilities,56,40.69,2025-03-06,2025-10-22,2027-09-08,High
+INV-5011,Level switch float type,Consumables,EQ-059,Maintenance,10,189.69,2026-03-08,2026-08-02,,Medium
+INV-9099,Motor start capacitor 25uF,Electrical,EQ-084,Operations,7,146.61,2023-11-22,2024-06-27,2028-02-02,High
+INV-9486,Temperature transmitter PT100,Mechanical,EQ-016,Operations,106,446.63,2026-06-02,,2029-11-02,Low
+INV-6198,Cooling fan motor 0.75 kW,Civil,EQ-071,Production,82,982.23,2026-05-12,2026-09-10,2028-03-31,Low
+INV-5543,Coupling flexible spider insert,Consumables,EQ-081,Production,65,1269.32,2025-03-14,2025-06-01,2028-03-05,High
+INV-6238,Compressor valve plate,Consumables,EQ-018,Maintenance,90,302.07,2024-09-14,,2028-01-23,High
+INV-7678,V-belt type A-56,Consumables,EQ-054,Production,15,179.84,2024-03-17,,2026-12-21,Low
+INV-7232,Level switch float type,Mechanical,EQ-039,Utilities,22,157.37,2026-01-17,2026-08-19,2028-02-05,Medium
+INV-5471,Contactor 3-phase 40A,Civil,EQ-050,Maintenance,68,10.11,2025-09-29,2026-04-24,2029-06-25,Low
+INV-9751,Angular contact bearing 7308,Civil,EQ-011,Maintenance,10,370.41,2026-04-06,,2027-02-21,High
+INV-6363,O-ring seal nitrile 50x3,Civil,EQ-044,Utilities,5,421.38,2025-12-26,2026-07-29,,High
+INV-1317,Pipe tee equal 1.5 inch SS,Consumables,EQ-045,Maintenance,15,200.48,2025-02-12,2025-03-25,2028-03-31,High
+INV-1333,Mechanical packing braided 10mm,Electrical,EQ-017,Operations,29,78.91,2026-07-07,2026-09-17,2029-06-20,Medium
+INV-7043,Pump mechanical seal type 21,Consumables,EQ-100,Maintenance,142,1319.16,2024-10-11,2025-01-29,2028-08-10,Medium
+INV-7149,Motor start capacitor 25uF,Electrical,EQ-076,Maintenance,131,239.31,2025-03-22,,2027-07-16,Medium
+INV-1672,Timing belt HTD 5M 450,Consumables,EQ-085,Production,14,32.84,2025-12-08,,2026-12-06,Low
+INV-9031,Ball valve 3 inch flanged,Civil,EQ-082,Utilities,13,276.67,2026-06-09,2026-09-28,,Medium
+INV-5425,Mechanical packing braided 10mm,Consumables,EQ-060,Production,27,145.6,2026-04-21,2026-09-19,,Low
+INV-2419,Oil filter element 10 micron,Civil,EQ-097,Operations,2,434.11,2026-06-19,2026-09-24,,Medium
+INV-6325,Pump coupling flexible jaw,Civil,EQ-046,Operations,10,179.32,2025-04-23,2026-01-30,2029-10-04,Low
+INV-2402,Ring joint gasket R-24,Civil,EQ-072,Production,6,367.89,2025-03-17,2026-08-01,2026-12-16,High
+INV-4630,Motor start capacitor 25uF,Electrical,EQ-085,Utilities,11,242.53,2025-12-05,2026-09-02,,Low
+INV-6419,Timing belt HTD 5M 450,Civil,EQ-040,Utilities,44,96.51,2025-04-08,,2028-08-18,High
+INV-9779,Cooling fan motor 0.75 kW,Electrical,EQ-028,Operations,52,618.79,2026-07-29,2026-10-12,2029-10-20,Medium
+INV-2647,Vessel manhole cover gasket,Electrical,EQ-030,Utilities,18,1321.13,2025-11-19,,,Medium
+INV-5494,Cylindrical roller bearing NU2210,Mechanical,EQ-090,Utilities,30,1300.87,2024-07-26,2026-09-04,2026-12-06,Medium
+INV-8690,Level switch float type,Civil,EQ-024,Utilities,3,135.35,2024-02-24,2026-07-25,2027-03-24,Medium
+INV-2213,Gear oil 220 cSt 20L,Mechanical,EQ-020,Operations,8,740.85,2025-07-25,,,Medium
+INV-7818,Packing gland PTFE 12mm,Consumables,EQ-100,Operations,1,1896.8,2026-10-16,2026-10-30,,Medium
+INV-8025,Fuel filter cartridge diesel,Consumables,EQ-079,Maintenance,0,698.06,2024-06-01,2024-12-30,2028-05-05,Medium
+INV-3573,Ring joint gasket R-24,Electrical,EQ-021,Maintenance,28,533.2,2023-11-16,2026-07-05,,High
+INV-5632,Flat washer M20 SS316,Civil,EQ-088,Maintenance,7,56.4,2025-03-03,2026-10-27,2027-12-21,Medium
+INV-9922,Spiral wound gasket DN100,Electrical,EQ-019,Utilities,46,515.25,2024-11-24,,2028-06-24,Medium
+INV-8679,Flat washer M20 SS316,Instrumentation,EQ-035,Production,5,201.72,2026-08-31,2026-10-26,,High
+INV-8078,Pipe tee equal 1.5 inch SS,Instrumentation,EQ-004,Utilities,16,159.48,2024-05-16,,2026-12-23,Low
+INV-5415,Gear oil 220 cSt 20L,Mechanical,EQ-061,Operations,43,476.92,2026-10-08,2026-10-25,,Medium
+INV-9056,Globe valve 1.5 inch SS,Civil,EQ-053,Utilities,67,1257.23,2025-09-23,2025-11-15,2028-09-16,Medium
+INV-9117,Air filter element compressed,Civil,EQ-059,Maintenance,11,5000.0,2024-05-09,2025-04-05,,Medium
+INV-9431,Heat exchanger tube bundle gasket,Mechanical,EQ-053,Production,3,43.46,2024-03-01,,,Medium
+INV-8242,Coupling rigid 25mm shaft,Mechanical,EQ-035,Operations,17,1021.34,2024-08-05,2025-10-27,2029-07-30,High
+INV-4920,Pipe flange raised face DN80,Electrical,EQ-071,Utilities,51,513.46,2023-12-09,2024-06-16,,Low
+INV-2858,Temperature transmitter PT100,Mechanical,EQ-064,Operations,3,1054.14,2025-06-30,2025-11-16,2029-07-26,Low
+INV-4993,Temperature transmitter PT100,Consumables,EQ-050,Operations,7,321.03,2024-12-05,2026-05-09,2027-08-17,Low
+INV-5526,Coupling flexible spider insert,Civil,EQ-065,Utilities,0,676.47,2025-05-11,2026-02-24,2029-08-09,Low
+INV-8316,Lubricating grease EP2 15kg,Civil,EQ-043,Utilities,4,301.81,2025-12-22,2026-06-04,2028-03-14,Medium
+INV-4826,Control panel door seal,Civil,EQ-041,Maintenance,47,56.81,2026-07-06,2026-10-11,,Medium
+INV-3492,Flow meter electromagnetic 2 inch,Mechanical,EQ-065,Operations,42,590.75,2025-09-20,2026-05-03,,Low
+INV-1251,Pipe elbow 90 degree 2 inch SS,Electrical,EQ-084,Production,1,77.84,2024-09-22,,2028-05-06,Medium
+INV-7512,Stud bolt M20x150 SS316,Mechanical,EQ-087,Utilities,15,616.45,2026-11-07,2026-11-09,2029-08-06,Low
+INV-1588,Mechanical packing braided 10mm,Mechanical,EQ-081,Operations,75,1121.1,2025-06-21,2026-07-08,,Low
+INV-2646,Pressure gauge 0-10 bar,Electrical,EQ-004,Utilities,42,86.39,2024-02-13,2024-04-10,,Medium
+INV-3385,Ring joint gasket R-24,Consumables,EQ-073,Production,18,291.5,2024-11-13,,,Low
+INV-4945,Flow meter electromagnetic 2 inch,Consumables,EQ-030,Operations,12,702.33,2026-06-12,2026-10-07,,High
+INV-8622,Compressor valve plate,Instrumentation,EQ-010,Operations,39,183.55,2026-05-03,2026-09-30,,Low
+INV-5097,Temperature transmitter PT100,Instrumentation,EQ-050,Operations,63,5000.0,2026-07-27,,,Medium
+INV-5847,Flat washer M20 SS316,Instrumentation,EQ-085,Maintenance,27,273.83,2026-01-29,2026-02-23,2029-08-24,Low
+INV-5689,Coupling flexible spider insert,Electrical,EQ-029,Utilities,8,77.04,2024-12-04,2026-10-29,2027-08-18,Medium
+INV-1645,Fuel filter cartridge diesel,Civil,EQ-075,Maintenance,0,790.46,2025-11-27,2026-01-12,2028-09-10,Medium
+INV-3877,Pump shaft sleeve stainless steel,Electrical,EQ-068,Utilities,41,210.83,2026-09-03,2026-09-24,,Low
+INV-8894,Turbine blade inspection cover,Instrumentation,EQ-015,Utilities,136,594.91,2026-06-27,2026-08-02,2028-02-16,Low
+INV-7511,Control panel door seal,Consumables,EQ-012,Utilities,132,142.17,2026-01-27,,2029-05-30,Medium
+INV-5295,Compressor oil synthetic 5L,Civil,EQ-014,Utilities,19,621.7,2025-03-03,2026-09-28,,Medium
+INV-2035,Hex bolt M16x60 grade 8.8,Civil,EQ-084,Utilities,3,80.54,2026-02-24,,,High
+INV-9071,Butterfly valve 4 inch wafer,Mechanical,EQ-069,Operations,32,132.22,2024-08-14,2025-08-28,2029-03-18,Medium
+INV-3531,Compressor piston ring set,Civil,EQ-063,Maintenance,110,521.18,2026-02-23,2026-07-16,,Medium
+INV-8264,Pressure gauge 0-10 bar,Electrical,EQ-013,Utilities,4,2029.46,2025-12-02,2026-10-28,,Medium
+INV-4109,Butterfly valve 4 inch wafer,Civil,EQ-085,Maintenance,38,870.36,2025-01-18,2026-09-21,2027-02-22,Medium
+INV-4990,Check valve 2 inch swing type,Consumables,EQ-009,Operations,54,260.25,2025-01-08,2025-09-03,,High
+INV-1046,Oil filter element 10 micron,Electrical,EQ-070,Operations,47,77.42,2025-04-07,2025-07-28,2027-01-02,High
+INV-6869,Gearbox output shaft seal,Electrical,EQ-003,Utilities,13,1284.86,2024-11-01,2025-03-10,2029-10-23,High
+INV-2041,Level switch float type,Civil,EQ-066,Utilities,66,352.6,2024-06-21,2025-02-02,2027-02-07,Medium
+INV-9543,Fuel filter cartridge diesel,Civil,EQ-008,Maintenance,97,333.17,2026-07-18,2026-09-10,2029-08-11,Medium
+INV-8267,Gate valve 2 inch DN50,Mechanical,EQ-078,Utilities,28,1373.1,2024-09-09,,,Medium
+INV-9984,Pipe flange raised face DN80,Instrumentation,EQ-077,Production,41,246.85,2026-11-01,2026-11-09,2027-06-02,Medium
+INV-2874,Control panel door seal,Consumables,EQ-056,Operations,48,323.36,2026-05-23,2026-09-05,,Medium
+INV-7815,Pipe elbow 90 degree 2 inch SS,Mechanical,EQ-055,Utilities,2,302.3,2025-08-12,2026-02-19,2029-07-09,High
+INV-2398,Globe valve 1.5 inch SS,Civil,EQ-096,Maintenance,18,298.28,2025-12-13,2026-09-23,,Low
+INV-6400,Hex nut M16 galvanised,Mechanical,EQ-046,Production,1,87.61,2026-03-26,2026-09-26,,High
+INV-6119,Timing belt HTD 5M 450,Mechanical,EQ-020,Operations,25,28.61,2026-07-25,,,Low
+INV-7022,Butterfly valve 4 inch wafer,Instrumentation,EQ-055,Operations,35,375.69,2024-01-03,2025-07-03,,High
+INV-6062,Vibration isolator mounting pad,Instrumentation,EQ-001,Utilities,1,83.79,2024-11-16,2026-06-18,2027-04-02,High
+INV-1502,Globe valve 1.5 inch SS,Consumables,EQ-049,Operations,29,163.73,2026-03-19,2026-04-28,,Medium
+INV-2391,Compressor piston ring set,Mechanical,EQ-021,Operations,58,473.19,2024-02-20,2024-11-24,2029-03-28,Medium
+INV-8242,Motor control relay 24VDC,Instrumentation,EQ-097,Operations,3,53.25,2026-09-25,,2028-06-13,Medium
+INV-8972,Pressure relief valve 15 bar,Instrumentation,EQ-029,Maintenance,4,4302.03,2026-01-28,2026-02-25,,Medium
+INV-4460,Coupling flexible spider insert,Electrical,EQ-038,Utilities,40,2235.22,2025-09-12,,2029-04-10,High
+INV-7229,Lubricating grease EP2 15kg,Electrical,EQ-010,Utilities,51,249.18,2026-02-01,2026-02-22,2029-06-09,Low
+INV-6129,Gear oil 220 cSt 20L,Civil,EQ-091,Production,15,415.92,2026-03-15,2026-06-26,,Medium
+INV-8538,Vessel manhole cover gasket,Instrumentation,EQ-056,Maintenance,63,143.54,2024-06-14,,2029-10-19,High
+INV-6083,Pipe tee equal 1.5 inch SS,Instrumentation,EQ-043,Operations,3,33.02,2024-10-20,,2029-11-01,Medium
+INV-6724,Timing belt HTD 5M 450,Electrical,EQ-014,Operations,1,96.91,2024-09-05,2025-03-01,2027-04-14,High
+INV-9095,Temperature transmitter PT100,Consumables,EQ-088,Production,7,1796.44,2025-09-02,2026-07-20,,Medium
+INV-8682,Pressure gauge 0-10 bar,Instrumentation,EQ-076,Utilities,6,358.28,2024-03-05,2024-05-19,,Medium
+INV-1932,Conveyor belt rubber 500mm,Instrumentation,EQ-083,Maintenance,50,35.35,2026-01-27,2025-10-14,,Medium
+INV-1672,Pressure gauge 0-10 bar,Consumables,EQ-042,Operations,43,384.81,2026-07-12,2026-07-19,2028-10-14,Low
+INV-2381,Safety relief valve 1 inch,Electrical,EQ-032,Maintenance,37,1775.12,2026-04-25,2026-09-06,2027-10-02,Medium
+INV-5634,Electric motor 7.5 kW 4-pole,Civil,EQ-087,Utilities,21,101.81,2024-02-26,2025-12-19,,Medium
+INV-7333,Air filter element compressed,Instrumentation,EQ-043,Operations,56,52.67,2024-04-25,2024-09-16,2028-08-07,Low
+INV-7421,Check valve 2 inch swing type,Consumables,EQ-040,Maintenance,0,184.04,2025-12-21,2026-06-07,2029-10-24,High
+INV-7937,Safety relief valve 1 inch,Instrumentation,EQ-047,Maintenance,4,2313.25,2025-08-04,,,Low
+INV-8967,Pump shaft sleeve stainless steel,Electrical,EQ-020,Operations,27,51.73,2024-04-17,2026-07-03,,Medium
+INV-9626,Cylindrical roller bearing NU2210,Instrumentation,EQ-077,Operations,22,215.69,2025-12-21,,,Medium
+INV-3712,Pipe elbow 90 degree 2 inch SS,Civil,EQ-053,Maintenance,20,1558.81,2025-11-26,2026-03-27,2028-06-16,Medium
+INV-8355,Spiral wound gasket DN100,Consumables,EQ-040,Operations,1,1197.41,2026-06-28,2026-08-16,,Low
+INV-8218,Temperature transmitter PT100,Instrumentation,EQ-065,Production,18,262.49,2026-10-26,2026-10-31,2027-08-21,Low
+INV-1854,Stud bolt M20x150 SS316,Civil,EQ-071,Utilities,77,4095.3,2024-06-08,2025-11-18,2028-06-16,High
+INV-3626,Oil filter element 10 micron,Civil,EQ-056,Operations,42,191.91,2024-05-16,2024-12-29,2028-10-26,Low
+INV-7797,Thrust ball bearing 51107,Civil,EQ-031,Utilities,35,263.24,2026-01-09,2026-07-19,,Medium
+INV-2623,Vessel manhole cover gasket,Instrumentation,EQ-018,Operations,112,25.11,2024-01-28,2026-05-26,2027-08-22,Medium
+INV-8685,Pressure gauge 0-10 bar,Consumables,EQ-011,Maintenance,41,1137.57,2023-12-19,2024-10-20,2029-10-26,Medium
+INV-5720,Ring joint gasket R-24,Instrumentation,EQ-007,Maintenance,24,557.92,2025-03-13,2026-06-24,,Low
+INV-9189,Packing gland PTFE 12mm,Consumables,EQ-081,Maintenance,19,266.44,2026-10-01,2026-10-10,,High
+INV-6780,Ring joint gasket R-24,Consumables,EQ-024,Production,129,136.49,2024-05-04,2025-05-08,,Medium
+INV-9312,Gearbox output shaft seal,Consumables,EQ-050,Maintenance,15,313.91,2026-06-30,,,Medium
+INV-1266,Timing belt HTD 5M 450,Mechanical,EQ-031,Utilities,74,115.97,2024-06-10,2026-07-02,2027-08-11,High
+INV-9945,V-belt type A-56,Electrical,EQ-090,Production,47,159.72,2026-07-18,2026-10-29,,Medium
+INV-8498,Cylindrical roller bearing NU2210,Instrumentation,EQ-006,Operations,39,377.82,2024-12-23,2025-11-11,2029-10-01,Medium
+INV-9897,Level switch float type,Instrumentation,EQ-097,Maintenance,65,491.56,2024-12-06,2025-01-23,2028-09-20,High
+INV-7029,Contactor 3-phase 40A,Civil,EQ-050,Production,13,474.42,2025-06-15,2026-06-16,2028-12-02,Low
+INV-9507,Oil filter element 10 micron,Mechanical,EQ-011,Production,65,104.36,2026-04-10,2026-11-06,,High
+INV-2680,Globe valve 1.5 inch SS,Instrumentation,EQ-040,Utilities,186,28.64,2026-05-12,2026-08-29,,Medium
+INV-8325,Cylindrical roller bearing NU2210,Instrumentation,EQ-036,Production,59,56.56,2024-03-07,,2028-11-24,Medium
+INV-3621,Cooling fan motor 0.75 kW,Mechanical,EQ-078,Operations,16,1577.24,2026-04-26,,,Medium
+INV-7001,Conveyor belt rubber 500mm,Civil,EQ-078,Maintenance,56,144.4,2024-09-20,2025-10-04,,Medium
+INV-3255,Pressure relief valve 15 bar,Instrumentation,EQ-041,Production,4,248.28,2025-06-03,,,Medium
+INV-9176,Pressure relief valve 15 bar,Civil,EQ-034,Maintenance,70,747.79,2025-04-27,2025-12-02,2028-06-17,Medium
+INV-9047,Pump shaft sleeve stainless steel,Mechanical,EQ-010,Operations,15,183.63,2026-05-24,,2027-05-09,Low
+INV-6236,Hex nut M16 galvanised,Instrumentation,EQ-071,Maintenance,0,681.82,2025-06-27,2026-09-05,,Medium
+INV-3852,Gearbox output shaft seal,Instrumentation,EQ-016,Operations,94,176.75,2024-12-26,2025-08-25,2027-01-03,Medium
+INV-7044,Temperature transmitter PT100,Consumables,EQ-079,Operations,119,117.25,2024-05-05,,,Medium
+INV-8842,Pressure relief valve 15 bar,Civil,EQ-074,Production,120,2427.9,2024-04-10,,,High
+INV-8632,Spring washer M16 SS,Consumables,EQ-017,Utilities,23,878.55,2024-11-17,2025-03-29,2027-03-04,Low
+INV-9488,Centrifugal pump impeller 150mm,Instrumentation,EQ-021,Operations,13,1038.89,2025-09-01,2025-12-25,,Low
+INV-5653,Control panel door seal,Mechanical,EQ-026,Utilities,55,58.21,2025-05-26,,,Medium
+INV-9234,Stud bolt M20x150 SS316,Electrical,EQ-022,Operations,62,105.74,2025-10-02,2026-07-17,,Low
+INV-2330,Cylindrical roller bearing NU2210,Consumables,EQ-084,Utilities,31,242.12,2025-01-15,2026-03-17,2027-01-12,Medium
+INV-9938,Air filter element compressed,Instrumentation,EQ-032,Production,23,168.86,2026-02-19,2026-03-28,2027-09-30,Medium
+INV-8933,Temperature transmitter PT100,Electrical,EQ-078,Utilities,4,641.99,2024-08-31,2026-09-05,,Low
+INV-6658,Motor start capacitor 25uF,Electrical,EQ-066,Utilities,6,511.12,2025-10-04,2025-10-05,,Medium
+INV-3308,Ball valve 3 inch flanged,Mechanical,EQ-050,Utilities,4,1248.2,2026-03-16,,2027-10-04,Low
+INV-6123,Pump shaft sleeve stainless steel,Electrical,EQ-066,Production,3,145.48,2026-06-24,2026-09-10,2027-05-14,Low
+INV-9281,Temperature transmitter PT100,Electrical,EQ-075,Operations,69,312.49,2025-11-02,,,Medium
+INV-8710,Air filter element compressed,Consumables,EQ-014,Maintenance,48,977.72,2026-04-11,,,Medium
+INV-7606,Conveyor belt rubber 500mm,Mechanical,EQ-007,Production,117,137.98,2024-12-13,2025-10-04,,Medium
+INV-5582,Heat exchanger tube bundle gasket,Consumables,EQ-017,Maintenance,170,110.27,2024-05-27,2026-08-18,2028-11-28,Medium
+INV-4261,Packing gland PTFE 12mm,Consumables,EQ-065,Production,3,1251.54,2024-02-01,,,Medium
+INV-8761,Pressure relief valve 15 bar,Civil,EQ-078,Operations,60,21.23,2026-10-01,,2028-08-24,High
+INV-5902,Compressor oil synthetic 5L,Instrumentation,EQ-091,Production,94,1610.08,2025-07-16,2025-07-24,,Medium
+INV-7824,Compressor oil synthetic 5L,Instrumentation,EQ-077,Maintenance,4,170.24,2026-07-09,2026-09-30,2028-02-20,Medium
+INV-8871,Pump mechanical seal type 21,Consumables,EQ-019,Production,25,243.36,2025-03-21,,2027-06-24,High
+INV-8225,Hydraulic filter high pressure,Civil,EQ-053,Operations,2,1124.81,2025-01-01,2026-09-19,2027-03-18,Medium
+INV-9498,O-ring seal nitrile 50x3,Consumables,EQ-085,Utilities,35,617.1,2026-07-17,2026-08-26,2029-06-09,Low
+INV-6608,Lubricating grease EP2 15kg,Instrumentation,EQ-079,Utilities,130,43.18,2026-07-29,,,Medium
+INV-4684,Cooling fan motor 0.75 kW,Instrumentation,EQ-091,Utilities,81,88.86,2025-01-08,2026-05-23,,Medium
+INV-5480,Air filter element compressed,Mechanical,EQ-051,Production,10,266.02,2025-10-17,2025-12-30,,High
+INV-2294,Timing belt HTD 5M 450,Civil,EQ-096,Utilities,198,796.48,2026-07-19,,2028-05-19,Low
+INV-5450,Check valve 2 inch swing type,Mechanical,EQ-032,Operations,3,431.97,2024-02-22,2025-08-18,,High
+INV-2641,Motor control relay 24VDC,Instrumentation,EQ-013,Production,29,261.18,2024-08-18,,2027-09-30,Medium
+INV-8793,Level switch float type,Electrical,EQ-042,Utilities,39,145.72,2025-06-17,2025-09-16,2028-02-29,Medium
+INV-1611,Vibration isolator mounting pad,Electrical,EQ-023,Production,39,2280.07,2024-01-24,2025-03-05,2027-11-27,Low
+INV-5742,Compressor piston ring set,Mechanical,EQ-039,Maintenance,35,214.19,2024-06-17,2025-05-26,,Low
+INV-9901,Pressure relief valve 15 bar,Civil,EQ-065,Operations,38,789.64,2026-06-26,2026-07-24,,Medium
+INV-5215,Pipe flange raised face DN80,Electrical,EQ-095,Maintenance,12,202.5,2025-10-01,2026-07-18,2027-12-11,High
+INV-7643,Heat exchanger tube bundle gasket,Civil,EQ-012,Utilities,17,48.13,2026-02-08,2026-05-13,2029-07-15,Medium
+INV-5064,Deep groove ball bearing 6205,Instrumentation,EQ-031,Production,35,24.65,2026-05-13,2026-08-05,,Medium
+INV-1187,Flange gasket PTFE 4 inch,Instrumentation,EQ-008,Operations,67,378.03,2024-07-10,2024-12-20,2029-09-05,Low
+INV-6095,Flat washer M20 SS316,Mechanical,EQ-048,Utilities,46,596.07,2025-02-05,,,High
+INV-7121,Motor control relay 24VDC,Consumables,EQ-097,Production,21,1439.41,2025-01-31,2026-10-03,2027-04-27,Medium
+INV-9653,Pipe flange raised face DN80,Instrumentation,EQ-073,Maintenance,107,224.0,2024-06-27,,2029-09-11,High
+INV-9792,Centrifugal pump impeller 150mm,Electrical,EQ-067,Utilities,66,174.4,2026-05-03,,,Medium
+INV-2489,Compressor valve plate,Consumables,EQ-008,Production,174,348.83,2026-05-27,,2027-03-09,Medium
+INV-6049,Pipe elbow 90 degree 2 inch SS,Mechanical,EQ-033,Production,19,65.57,2023-11-17,2024-04-14,,Medium
+INV-2044,Lubricating grease EP2 15kg,Mechanical,EQ-061,Maintenance,140,340.62,2024-01-14,2025-01-16,2029-03-20,Medium
+INV-7266,Pressure gauge 0-10 bar,Civil,EQ-011,Production,25,341.88,2024-08-09,2025-07-31,,Low
+INV-7439,Pressure relief valve 15 bar,Electrical,EQ-001,Operations,21,214.79,2023-12-27,2026-08-01,2029-03-28,Medium
+INV-4762,Ring joint gasket R-24,Civil,EQ-020,Utilities,80,228.93,2025-05-28,,2027-06-30,High
+INV-7868,Mechanical packing braided 10mm,Mechanical,EQ-027,Operations,67,1509.42,2024-03-27,,,Medium
+INV-1797,Ring joint gasket R-24,Mechanical,EQ-057,Production,115,356.01,2025-03-04,2025-04-30,,Low
+INV-4836,Heat exchanger tube bundle gasket,Consumables,EQ-074,Utilities,75,168.07,2025-12-15,,2029-10-13,High
+INV-5923,Oil filter element 10 micron,Mechanical,EQ-081,Operations,5,35.91,2026-04-03,2026-04-15,2028-12-30,Medium
+INV-6222,Flat washer M20 SS316,Civil,EQ-020,Production,123,47.36,2025-07-17,2026-08-07,2028-03-18,Low
+INV-5927,Control panel door seal,Electrical,EQ-008,Production,44,465.26,2026-03-05,2026-07-25,2029-01-14,High
+INV-4331,V-belt type A-56,Mechanical,EQ-048,Production,38,90.61,2024-05-18,2026-09-14,,High
+INV-1647,Generator AVR module,Mechanical,EQ-098,Operations,44,169.93,2025-01-28,2026-01-03,,Low
+INV-4470,Lube oil pump gear set,Electrical,EQ-096,Maintenance,29,280.85,2026-07-18,2026-10-15,2028-01-03,Medium
+INV-4921,Hydraulic oil ISO VG 46 20L,Instrumentation,EQ-049,Utilities,76,1574.22,2026-06-22,2026-09-21,,Medium
+INV-9147,Temperature transmitter PT100,Mechanical,EQ-098,Production,32,838.74,2025-08-27,2026-03-04,,High
+INV-4625,Pipe tee equal 1.5 inch SS,Electrical,EQ-034,Maintenance,20,298.66,2026-03-15,2026-05-04,,Medium
+INV-5026,Flow meter electromagnetic 2 inch,Consumables,EQ-033,Utilities,5,1460.97,2026-08-07,2026-10-28,2029-06-11,High
+INV-6770,Pump mechanical seal type 21,Electrical,EQ-024,Production,9,701.62,2024-03-10,2026-07-17,2027-02-18,Medium
+INV-7756,Check valve 2 inch swing type,Electrical,EQ-091,Maintenance,5,30.66,2024-09-15,,2028-12-14,High
+INV-8916,Hex nut M16 galvanised,Civil,EQ-001,Maintenance,23,1384.66,2026-11-04,2026-11-04,,Medium
+INV-9777,Air filter element compressed,Mechanical,EQ-023,Production,93,311.11,2024-06-17,2025-12-05,,High
+INV-9625,Flange gasket PTFE 4 inch,Instrumentation,EQ-051,Utilities,61,18.08,2024-04-20,2025-06-09,2028-03-23,Low
+INV-4700,Fuel filter cartridge diesel,Mechanical,EQ-012,Maintenance,20,794.61,2026-02-18,2026-10-19,,High
+INV-3807,Globe valve 1.5 inch SS,Civil,EQ-083,Production,119,363.89,2025-09-19,2025-11-06,2027-02-06,High
+INV-8790,Oil filter element 10 micron,Mechanical,EQ-088,Maintenance,6,240.41,2025-06-07,2025-07-10,,Low
+INV-1256,O-ring seal nitrile 50x3,Consumables,EQ-097,Operations,11,636.31,2026-02-03,2026-07-06,,High
+INV-7375,Spring washer M16 SS,Consumables,EQ-050,Utilities,24,242.88,2024-08-23,2026-07-29,2029-09-01,Medium
+INV-6666,Thrust ball bearing 51107,Mechanical,EQ-030,Production,4,396.92,2026-01-24,2026-06-10,2029-01-31,Low
+INV-6347,Angular contact bearing 7308,Instrumentation,EQ-063,Production,40,211.14,2025-02-20,2026-03-11,2028-12-28,High
+INV-5839,Turbine blade inspection cover,Electrical,EQ-011,Maintenance,5,223.55,2025-05-12,,2027-09-22,Medium
+INV-6188,Conveyor belt rubber 500mm,Mechanical,EQ-001,Maintenance,5,65.27,2025-08-03,2026-08-27,,High
+INV-4070,Contactor 3-phase 40A,Civil,EQ-014,Production,16,439.31,2024-01-03,,2028-09-05,Low
+INV-1202,Air filter element compressed,Civil,EQ-100,Production,90,2881.63,2024-05-02,2025-11-25,2028-03-22,Medium
+INV-3778,Spring washer M16 SS,Civil,EQ-018,Operations,7,166.8,2025-05-14,2026-09-30,,High
+INV-5521,Motor control relay 24VDC,Instrumentation,EQ-010,Production,8,91.96,2025-11-19,2026-03-25,2029-08-22,Medium
+INV-4203,Temperature transmitter PT100,Mechanical,EQ-039,Operations,3,125.11,2023-11-24,2025-10-04,2028-12-28,Low
+INV-6399,Pressure gauge 0-10 bar,Instrumentation,EQ-084,Production,5,43.78,2024-08-15,2026-04-24,2027-12-27,Medium
+INV-3910,Motor start capacitor 25uF,Instrumentation,EQ-095,Utilities,18,194.45,2026-08-12,2026-09-12,,High
+INV-7437,Conveyor belt rubber 500mm,Mechanical,EQ-076,Operations,28,216.52,2024-11-13,2026-05-30,,Medium
+INV-4434,Pressure gauge 0-10 bar,Instrumentation,EQ-053,Maintenance,64,257.38,2026-08-29,,,High
+INV-3525,Pipe flange raised face DN80,Civil,EQ-010,Production,39,679.68,2026-05-18,2026-09-17,2029-11-09,Medium
+INV-7853,Lubricating grease EP2 15kg,Mechanical,EQ-090,Utilities,55,116.23,2024-05-03,,,Medium
+INV-3725,Stud bolt M20x150 SS316,Consumables,EQ-073,Maintenance,8,126.88,2026-02-06,2026-07-25,2029-04-10,High
+INV-2615,Flange gasket PTFE 4 inch,Electrical,EQ-058,Operations,26,56.06,2025-12-16,2026-10-13,2027-09-15,Medium
+INV-1402,Level switch float type,Mechanical,EQ-054,Utilities,38,115.37,2024-05-04,,2027-08-28,Medium
+INV-6620,Temperature transmitter PT100,Electrical,EQ-045,Production,5,17.63,2026-07-13,,2029-05-25,Medium
+INV-5919,Cylindrical roller bearing NU2210,Mechanical,EQ-044,Maintenance,1,679.72,2024-06-21,2024-12-06,2028-03-24,Medium
+INV-3623,V-belt type A-56,Consumables,EQ-060,Production,90,74.77,2025-02-27,2025-09-03,,Medium
+INV-7481,Angular contact bearing 7308,Consumables,EQ-058,Operations,28,76.19,2026-04-08,2026-10-05,,High
+INV-2025,Gear oil 220 cSt 20L,Mechanical,EQ-047,Operations,23,269.18,2025-09-08,,,Medium
+INV-9019,Pressure relief valve 15 bar,Instrumentation,EQ-079,Production,30,92.52,2026-01-22,2026-07-19,,Medium
+INV-3826,Heat exchanger tube bundle gasket,Instrumentation,EQ-087,Maintenance,18,82.64,2024-08-11,2025-04-12,,High
+INV-3316,Safety relief valve 1 inch,Civil,EQ-077,Production,0,68.48,2024-08-19,2025-10-26,,Medium
+INV-3838,Hydraulic oil ISO VG 46 20L,Electrical,EQ-037,Production,15,111.58,2024-08-24,,2027-02-28,Low
+INV-1157,Flow meter electromagnetic 2 inch,Electrical,EQ-050,Operations,5,317.94,2026-09-11,2026-10-07,2029-03-11,Medium
+INV-8272,Flow meter electromagnetic 2 inch,Electrical,EQ-073,Maintenance,45,729.73,2024-01-13,2025-04-08,,High
+INV-9808,Air filter element compressed,Electrical,EQ-073,Production,62,85.73,2026-08-21,2026-09-04,2028-05-12,Medium
+INV-7010,Lubricating grease EP2 15kg,Mechanical,EQ-070,Production,30,243.73,2025-01-31,2025-05-15,2028-03-31,High
+INV-1528,Pressure gauge 0-10 bar,Instrumentation,EQ-012,Utilities,35,144.23,2025-01-12,2026-05-28,2028-03-10,High
+INV-6744,Generator AVR module,Consumables,EQ-022,Production,5,1633.44,2024-08-22,2025-03-21,2028-10-29,Medium
+INV-9827,Pump mechanical seal type 21,Instrumentation,EQ-038,Utilities,13,1306.2,2025-05-11,2026-10-19,2027-05-25,High
+INV-7743,Vibration isolator mounting pad,Mechanical,EQ-084,Utilities,33,50.83,2024-07-27,2024-12-09,,Medium
+INV-5055,Coupling rigid 25mm shaft,Civil,EQ-019,Production,17,252.96,2025-05-14,2026-06-02,2027-05-20,Medium
+INV-5558,Flat washer M20 SS316,Instrumentation,EQ-063,Production,10,285.1,2025-09-11,2026-10-12,2027-05-20,Medium
+INV-8511,Hex bolt M16x60 grade 8.8,Instrumentation,EQ-069,Maintenance,4,141.21,2026-02-02,,2028-01-18,Medium
+INV-6289,Vessel manhole cover gasket,Instrumentation,EQ-071,Utilities,7,115.45,2024-08-04,2025-12-13,2027-02-18,High
+INV-8529,Angular contact bearing 7308,Mechanical,EQ-057,Operations,8,90.53,2026-06-02,,2027-12-30,Low
+INV-3161,Compressor piston ring set,Instrumentation,EQ-036,Operations,90,127.2,2024-05-20,2025-01-31,,Medium
+INV-3711,Thrust ball bearing 51107,Civil,EQ-093,Utilities,3,12.14,2025-03-04,2025-06-05,2026-11-13,High
+INV-2276,Check valve 2 inch swing type,Consumables,EQ-067,Operations,161,556.45,2026-05-10,,2027-07-15,Low
+INV-7919,Flat washer M20 SS316,Electrical,EQ-010,Production,4,390.84,2025-02-21,2025-06-05,,Medium
+INV-5902,Check valve 2 inch swing type,Civil,EQ-083,Operations,80,220.99,2024-08-29,,2027-10-13,Medium
+INV-4490,Hex bolt M16x60 grade 8.8,Electrical,EQ-079,Production,67,102.64,2026-10-05,2026-05-27,2027-08-24,Medium
+INV-7291,Timing belt HTD 5M 450,Civil,EQ-018,Utilities,44,129.14,2025-04-01,2025-06-26,,Medium
+INV-5668,Coupling flexible spider insert,Mechanical,EQ-027,Utilities,106,2841.21,2026-10-06,2026-10-18,2028-07-08,Medium
+INV-4921,Flow meter electromagnetic 2 inch,Civil,EQ-031,Maintenance,13,1708.78,2026-08-30,2026-09-08,2026-12-05,Low
+INV-6185,Check valve 2 inch swing type,Civil,EQ-047,Production,58,124.28,2024-10-29,2025-01-11,,High
+INV-5295,O-ring seal nitrile 50x3,Mechanical,EQ-051,Maintenance,22,73.52,2026-09-13,2026-10-28,2029-03-10,Medium
+INV-7590,Globe valve 1.5 inch SS,Consumables,EQ-036,Operations,28,141.13,2024-04-30,2025-10-05,2027-09-25,Medium
+INV-7401,Compressor oil synthetic 5L,Mechanical,EQ-090,Utilities,37,169.35,2026-04-24,2026-06-24,,High
+INV-8118,Butterfly valve 4 inch wafer,Civil,EQ-040,Maintenance,13,62.37,2024-11-04,,2026-12-04,High
+INV-6680,Pressure relief valve 15 bar,Consumables,EQ-022,Utilities,26,337.41,2025-12-11,,2028-05-14,Medium
+INV-2934,Coupling flexible spider insert,Mechanical,EQ-055,Utilities,30,204.74,2025-05-21,2026-02-14,2027-04-17,Medium
+INV-9368,Conveyor belt rubber 500mm,Mechanical,EQ-073,Production,5,150.06,2024-10-17,2025-07-05,2027-07-05,High
+INV-9336,Deep groove ball bearing 6205,Mechanical,EQ-032,Maintenance,2,118.82,2024-02-13,2025-03-11,2027-11-12,Low
+INV-1579,Hydraulic oil ISO VG 46 20L,Civil,EQ-042,Operations,45,609.29,2025-04-02,2026-02-23,,High
+INV-7108,Butterfly valve 4 inch wafer,Consumables,EQ-023,Maintenance,57,102.72,2025-02-10,2025-03-29,2027-04-01,Low
+INV-5625,Coupling flexible spider insert,Instrumentation,EQ-012,Utilities,21,4539.71,2026-06-03,,,Medium
+INV-5979,Pipe tee equal 1.5 inch SS,Consumables,EQ-060,Operations,17,299.97,2025-12-04,2026-08-13,2027-12-16,Medium
+INV-9954,Coupling rigid 25mm shaft,Electrical,EQ-001,Operations,7,272.4,2026-02-27,,2026-11-30,Low
+INV-1023,Coupling rigid 25mm shaft,Civil,EQ-014,Utilities,2,439.51,2025-01-04,2025-09-04,2027-03-13,Low
+INV-3332,Pipe flange raised face DN80,Instrumentation,EQ-006,Maintenance,73,1629.72,2025-02-27,2026-08-13,2028-12-12,Medium
+INV-2391,Compressor oil synthetic 5L,Mechanical,EQ-082,Operations,6,119.89,2026-01-26,,2029-04-19,Medium
+INV-3141,Ring joint gasket R-24,Instrumentation,EQ-041,Utilities,7,495.71,2026-01-23,2026-07-09,,High
+INV-2223,Cooling fan motor 0.75 kW,Electrical,EQ-100,Operations,7,469.74,2024-06-21,,,Medium
+INV-7660,Butterfly valve 4 inch wafer,Consumables,EQ-099,Utilities,29,847.17,2025-01-09,2026-04-28,,High
+INV-3582,Turbine blade inspection cover,Instrumentation,EQ-028,Maintenance,17,176.93,2025-09-12,,2028-11-08,Medium
+INV-1802,Spring washer M16 SS,Instrumentation,EQ-023,Utilities,67,762.91,2024-01-13,2026-07-27,2028-04-05,High
+INV-2669,Turbine blade inspection cover,Electrical,EQ-002,Maintenance,23,108.67,2024-03-16,2024-10-29,,Low
+INV-7098,Spring washer M16 SS,Mechanical,EQ-010,Utilities,14,16.84,2023-12-25,2025-02-01,2029-05-07,Low
+INV-2506,Compressor valve plate,Instrumentation,EQ-006,Maintenance,55,36.73,2026-06-12,,2029-04-16,Low
+INV-7471,Flow meter electromagnetic 2 inch,Mechanical,EQ-088,Production,91,249.45,2026-04-02,,,High
+INV-5585,Pressure gauge 0-10 bar,Electrical,EQ-079,Maintenance,19,714.01,2025-03-28,2026-08-20,2029-07-19,High
+INV-5583,Electric motor 7.5 kW 4-pole,Electrical,EQ-026,Production,39,274.44,2026-10-22,,2026-12-20,Low
+INV-6883,Level switch float type,Consumables,EQ-045,Production,4,298.34,2026-09-04,2026-10-08,,Medium
+INV-4588,Angular contact bearing 7308,Instrumentation,EQ-061,Maintenance,16,484.31,2026-10-30,2026-11-08,2027-10-03,High
+INV-4951,Oil filter element 10 micron,Consumables,EQ-098,Maintenance,5,450.9,2025-02-02,2026-03-06,,Low
+INV-3846,Pump coupling flexible jaw,Electrical,EQ-095,Utilities,30,1093.12,2025-11-14,2025-11-28,2028-10-31,Low
+INV-3328,Gear oil 220 cSt 20L,Electrical,EQ-070,Production,89,136.34,2025-08-04,,,High
+INV-4584,Angular contact bearing 7308,Consumables,EQ-001,Production,14,397.26,2025-06-14,2026-01-01,2028-10-08,Medium
+INV-6301,Thrust ball bearing 51107,Mechanical,EQ-076,Operations,11,1497.76,2024-08-27,2026-02-16,2027-04-08,Medium
+INV-7481,Compressor oil synthetic 5L,Mechanical,EQ-039,Utilities,83,396.41,2025-09-01,,,Low
+INV-8982,Stud bolt M20x150 SS316,Instrumentation,EQ-091,Operations,16,1146.39,2025-11-10,,2027-11-05,Medium
+INV-5825,Check valve 2 inch swing type,Electrical,EQ-090,Maintenance,6,143.51,2026-01-20,2026-11-06,,Medium
+INV-4619,Hex bolt M16x60 grade 8.8,Consumables,EQ-064,Maintenance,10,777.92,2024-08-25,2024-11-12,,Low
+INV-3750,Hex bolt M16x60 grade 8.8,Mechanical,EQ-058,Utilities,40,787.03,2023-12-04,2025-04-28,2028-10-28,High
+INV-2770,Pipe elbow 90 degree 2 inch SS,Mechanical,EQ-050,Maintenance,47,34.51,2026-04-26,2026-06-07,2029-08-16,Low
+INV-6754,Lubricating grease EP2 15kg,Civil,EQ-062,Maintenance,16,342.8,2025-02-14,,,Low
+INV-5831,Angular contact bearing 7308,Instrumentation,EQ-014,Utilities,8,300.28,2024-04-10,2026-10-06,,Medium
+INV-9962,Cooling fan motor 0.75 kW,Mechanical,EQ-077,Utilities,20,666.93,2026-07-26,2026-09-19,2027-10-14,Medium
+INV-8113,Pump mechanical seal type 21,Mechanical,EQ-043,Maintenance,24,303.88,2025-01-04,2026-02-27,2028-05-07,Medium
+INV-5872,Ring joint gasket R-24,Mechanical,EQ-051,Maintenance,37,5000.0,2026-08-12,,,Medium
+INV-5825,Heat exchanger tube bundle gasket,Consumables,EQ-026,Production,0,2076.83,2024-05-27,,,High
+INV-2342,Level switch float type,Mechanical,EQ-051,Utilities,102,496.87,2026-07-02,2026-09-07,,Medium
+INV-4029,Conveyor belt rubber 500mm,Civil,EQ-024,Utilities,49,330.4,2026-05-11,,2028-05-03,High
+INV-5400,Gear oil 220 cSt 20L,Mechanical,EQ-097,Operations,37,62.32,2024-05-27,,,Medium
+INV-4727,Hydraulic oil ISO VG 46 20L,Mechanical,EQ-067,Production,22,305.11,2026-03-17,2026-09-08,2029-07-10,Medium
+INV-4860,Level switch float type,Instrumentation,EQ-051,Maintenance,103,275.92,2024-01-21,2024-11-17,,Medium
+INV-3832,Cooling fan motor 0.75 kW,Electrical,EQ-025,Operations,23,5000.0,2024-07-26,,,Medium
+INV-4308,Heat exchanger tube bundle gasket,Electrical,EQ-041,Utilities,20,458.86,2024-03-27,,2028-09-08,Low
+INV-9514,Temperature transmitter PT100,Mechanical,EQ-015,Production,2,884.65,2026-03-08,,2027-06-04,Low
+INV-2654,Gearbox output shaft seal,Instrumentation,EQ-053,Utilities,0,121.59,2025-05-04,2026-09-13,2029-07-06,High
+INV-5512,Motor start capacitor 25uF,Electrical,EQ-005,Production,16,680.41,2026-01-29,2026-07-17,2027-02-19,Medium
+INV-5400,Compressor valve plate,Instrumentation,EQ-044,Maintenance,100,15.11,2025-07-23,2026-09-27,2027-05-31,Low
+INV-4734,Check valve 2 inch swing type,Instrumentation,EQ-100,Production,17,1123.44,2025-08-29,2026-03-30,2027-05-12,High
+INV-4463,Vibration isolator mounting pad,Civil,EQ-098,Production,24,91.64,2026-10-03,2026-10-06,2027-10-02,High
+INV-9303,Motor start capacitor 25uF,Electrical,EQ-023,Maintenance,10,63.4,2024-12-09,2025-07-02,2028-04-04,High
+INV-1828,Vibration isolator mounting pad,Instrumentation,EQ-036,Operations,7,204.62,2025-12-04,2026-08-19,,Low
+INV-1500,Ring joint gasket R-24,Instrumentation,EQ-077,Production,27,642.47,2026-05-12,,2028-10-27,Medium
+INV-5237,Pipe tee equal 1.5 inch SS,Mechanical,EQ-004,Utilities,18,202.62,2026-01-10,,2028-01-23,Low
+INV-4688,Spring washer M16 SS,Electrical,EQ-084,Utilities,34,72.19,2026-02-26,2026-03-02,2027-08-08,Medium
+INV-1138,Spiral wound gasket DN100,Instrumentation,EQ-092,Utilities,129,454.87,2025-05-27,2026-06-16,2029-06-08,High
+INV-8646,Fuel filter cartridge diesel,Consumables,EQ-075,Production,6,93.79,2024-06-07,,2028-12-16,Medium
+INV-5631,Fuel filter cartridge diesel,Mechanical,EQ-009,Production,200,200.85,2025-09-29,2026-08-22,,High
+INV-5895,Pump shaft sleeve stainless steel,Electrical,EQ-008,Operations,27,108.52,2026-02-15,2026-04-27,2029-08-25,Low
+INV-5250,Vibration isolator mounting pad,Civil,EQ-050,Production,55,292.7,2024-01-22,2025-02-13,,Medium
+INV-9759,Hex bolt M16x60 grade 8.8,Civil,EQ-065,Utilities,9,213.19,2025-07-17,2026-09-20,2027-11-16,High
+INV-8713,Check valve 2 inch swing type,Instrumentation,EQ-088,Operations,8,294.73,2025-09-28,2026-01-19,,Medium
+INV-6031,Motor control relay 24VDC,Instrumentation,EQ-034,Utilities,1,5000.0,2025-07-05,2025-09-03,2027-04-05,Medium
+INV-4187,Safety relief valve 1 inch,Mechanical,EQ-068,Production,2,64.81,2025-07-14,2026-10-02,2027-08-19,Low
+INV-6614,Motor control relay 24VDC,Consumables,EQ-019,Production,59,1295.04,2025-08-19,2025-11-19,2029-08-05,Medium
+INV-3897,Hydraulic filter high pressure,Mechanical,EQ-058,Maintenance,23,10.06,2025-05-24,,2027-10-01,Medium
+INV-2442,Check valve 2 inch swing type,Consumables,EQ-082,Production,20,59.56,2026-04-08,2026-08-08,,High
+INV-4267,Pipe elbow 90 degree 2 inch SS,Instrumentation,EQ-042,Maintenance,8,312.45,2026-11-02,,2028-04-03,High
+INV-6641,Fuel filter cartridge diesel,Electrical,EQ-050,Maintenance,79,204.41,2026-09-06,2026-09-27,,High
+INV-5764,Temperature transmitter PT100,Consumables,EQ-056,Utilities,12,460.96,2024-08-11,2025-12-25,,High
+INV-7609,Angular contact bearing 7308,Electrical,EQ-094,Operations,41,158.5,2024-08-05,,,Medium
+INV-3017,Conveyor belt rubber 500mm,Mechanical,EQ-082,Production,6,225.09,2025-04-17,2025-06-05,2027-02-17,Medium
+INV-1323,Thrust ball bearing 51107,Mechanical,EQ-057,Production,50,219.85,2025-12-28,,,Medium
+INV-4366,Flat washer M20 SS316,Mechanical,EQ-054,Utilities,10,253.66,2024-06-04,2025-03-07,2027-08-18,Medium
+INV-2718,Safety relief valve 1 inch,Consumables,EQ-037,Maintenance,10,275.47,2024-07-01,2025-11-22,,High
+INV-5308,Vessel manhole cover gasket,Consumables,EQ-046,Operations,7,209.26,2026-02-27,2026-03-19,2028-01-10,Medium
+INV-8875,V-belt type A-56,Electrical,EQ-002,Maintenance,42,160.64,2024-05-11,2026-09-13,2029-08-18,High
+INV-2475,Coupling flexible spider insert,Consumables,EQ-093,Maintenance,11,185.85,2024-06-05,2026-03-26,,Low
+INV-5850,Flange gasket PTFE 4 inch,Civil,EQ-013,Maintenance,51,324.27,2024-11-02,2025-08-26,,Medium
+INV-7979,Pipe tee equal 1.5 inch SS,Mechanical,EQ-098,Maintenance,20,331.39,2024-02-12,,,Medium
+INV-6384,Timing belt HTD 5M 450,Civil,EQ-094,Utilities,44,111.2,2024-05-19,2025-05-04,,Medium
+INV-8479,Oil filter element 10 micron,Civil,EQ-054,Production,90,79.45,2024-10-17,,2027-03-11,Low
+INV-3611,Ball valve 3 inch flanged,Civil,EQ-073,Production,0,32.99,2026-04-26,,,Medium
+INV-1472,Generator AVR module,Electrical,EQ-063,Production,89,2033.72,2024-06-29,2025-09-23,,High
+INV-6148,Deep groove ball bearing 6205,Consumables,EQ-086,Operations,68,55.16,2025-10-03,2026-09-20,2027-05-25,Medium
+INV-5072,Level switch float type,Instrumentation,EQ-020,Production,19,91.88,2024-03-01,,2029-09-11,Low
+INV-9123,Generator AVR module,Electrical,EQ-097,Maintenance,35,606.45,2026-08-13,2026-09-24,2027-02-22,Medium
+INV-7203,Motor start capacitor 25uF,Electrical,EQ-059,Maintenance,21,44.9,2026-05-08,2026-08-30,,Medium
+INV-6178,Butterfly valve 4 inch wafer,Civil,EQ-014,Maintenance,32,29.84,2026-02-14,2026-02-14,2028-07-26,Low
+INV-4389,Stud bolt M20x150 SS316,Civil,EQ-047,Utilities,118,127.24,2024-03-01,2026-07-13,2029-07-06,Medium
+INV-6952,Pipe flange raised face DN80,Civil,EQ-013,Maintenance,57,785.4,2025-02-07,,,Medium
+INV-5783,Hydraulic oil ISO VG 46 20L,Consumables,EQ-090,Utilities,64,235.77,2024-06-15,,,High
+INV-7704,Ball valve 3 inch flanged,Instrumentation,EQ-025,Operations,22,3249.6,2024-07-15,2025-08-21,,Low
+INV-4122,Pipe flange raised face DN80,Instrumentation,EQ-097,Maintenance,11,548.24,2026-03-08,,2027-07-21,Medium
+INV-8381,Temperature transmitter PT100,Consumables,EQ-064,Operations,6,52.14,2023-11-19,2024-02-26,2029-04-15,Low
+INV-8912,Lube oil pump gear set,Consumables,EQ-089,Operations,12,276.16,2024-10-31,2025-03-11,,Medium
+INV-6273,Safety relief valve 1 inch,Civil,EQ-078,Production,0,34.62,2025-04-02,2026-03-19,2029-05-26,Low
+INV-3263,Motor control relay 24VDC,Consumables,EQ-090,Utilities,32,474.49,2025-08-14,2026-05-24,2027-12-27,High
+INV-5760,Spring washer M16 SS,Instrumentation,EQ-091,Operations,42,139.35,2024-11-09,2026-10-20,2027-07-05,Medium
+INV-8870,Compressor oil synthetic 5L,Consumables,EQ-087,Production,0,460.51,2026-11-08,2026-11-09,2029-10-16,High
+INV-7240,Centrifugal pump impeller 150mm,Mechanical,EQ-026,Maintenance,5,1710.67,2025-05-10,2025-10-21,2028-04-07,High
+INV-2016,Flat washer M20 SS316,Instrumentation,EQ-097,Operations,43,1610.97,2024-01-16,2026-07-30,,Low
+INV-4675,Pipe tee equal 1.5 inch SS,Consumables,EQ-031,Production,7,202.41,2026-09-22,2026-11-05,,Medium
+INV-7251,Electric motor 7.5 kW 4-pole,Civil,EQ-071,Utilities,19,644.14,2024-02-29,,,Medium
+INV-8259,Vessel manhole cover gasket,Electrical,EQ-097,Utilities,29,161.16,2024-12-17,2025-07-03,,High
+INV-2220,Pump coupling flexible jaw,Electrical,EQ-049,Maintenance,36,310.53,2024-02-02,2025-08-24,,High
+INV-5178,Deep groove ball bearing 6205,Instrumentation,EQ-091,Production,11,39.3,2024-09-23,,2027-02-23,Medium
+INV-5934,Flow meter electromagnetic 2 inch,Consumables,EQ-010,Utilities,17,93.87,2025-08-22,2025-11-24,2029-09-10,High
+INV-9897,Lubricating grease EP2 15kg,Civil,EQ-045,Maintenance,50,487.24,2025-02-06,2026-01-11,,High
+INV-9691,Level switch float type,Consumables,EQ-015,Maintenance,25,29.84,2025-10-19,2026-09-12,2028-03-24,Low
+INV-6258,Electric motor 7.5 kW 4-pole,Mechanical,EQ-033,Production,43,274.34,2025-06-12,,2028-12-17,Medium
+INV-9335,Pressure gauge 0-10 bar,Civil,EQ-038,Maintenance,9,303.34,2024-12-09,2025-03-03,2027-10-19,Low
+INV-9814,Lubricating grease EP2 15kg,Mechanical,EQ-027,Maintenance,1,507.29,2025-01-20,2026-03-30,2028-01-06,Medium
+INV-8130,Stud bolt M20x150 SS316,Mechanical,EQ-004,Operations,2,39.53,2026-06-08,2026-06-17,,High
+INV-5127,Hydraulic oil ISO VG 46 20L,Mechanical,EQ-034,Operations,27,32.22,2026-02-22,2026-09-17,2026-12-15,Medium
+INV-2938,Lubricating grease EP2 15kg,Mechanical,EQ-097,Maintenance,58,799.95,2024-02-12,2024-04-26,,Medium
+INV-5748,Gearbox output shaft seal,Instrumentation,EQ-037,Maintenance,4,303.63,2026-04-25,2026-10-11,,High
+INV-4602,Check valve 2 inch swing type,Civil,EQ-082,Utilities,27,163.72,2024-09-01,2026-09-17,2026-12-03,Medium
+INV-3316,Butterfly valve 4 inch wafer,Mechanical,EQ-074,Maintenance,46,37.73,2026-01-26,2026-03-10,,Medium
+INV-6633,O-ring seal nitrile 50x3,Civil,EQ-021,Operations,68,151.34,2024-11-21,,2027-12-13,High
+INV-1891,Control panel door seal,Consumables,EQ-083,Production,64,66.33,2024-04-08,2024-06-15,,High
+INV-8982,Cooling fan motor 0.75 kW,Instrumentation,EQ-017,Utilities,35,746.49,2025-03-05,,2027-12-12,Medium
+INV-8383,V-belt type A-56,Consumables,EQ-089,Utilities,17,50.24,2024-09-18,2025-09-26,2029-04-06,High
+INV-6131,Ring joint gasket R-24,Electrical,EQ-036,Production,31,186.51,2025-11-16,,2029-07-20,Medium
+INV-6877,Coupling flexible spider insert,Instrumentation,EQ-071,Production,82,652.0,2024-06-20,,2028-06-07,Low
+INV-3293,Compressor valve plate,Consumables,EQ-034,Operations,43,514.09,2024-04-15,2026-10-15,,Medium
+INV-1511,Heat exchanger tube bundle gasket,Consumables,EQ-099,Production,47,141.95,2025-01-19,2026-08-06,,Low
+INV-9842,Level switch float type,Electrical,EQ-051,Utilities,26,522.97,2025-02-10,2026-10-06,2028-06-28,High
+INV-9210,Safety relief valve 1 inch,Mechanical,EQ-047,Production,10,653.39,2026-09-04,,,Low
+INV-3717,Coupling rigid 25mm shaft,Consumables,EQ-058,Operations,1,287.33,2024-10-02,,2027-09-06,Medium
+INV-8921,Cooling fan motor 0.75 kW,Instrumentation,EQ-029,Maintenance,47,418.2,2026-08-05,,,High
+INV-4387,Pressure relief valve 15 bar,Instrumentation,EQ-061,Production,141,189.44,2026-05-30,2026-06-09,2028-09-04,High
+INV-9542,Hex bolt M16x60 grade 8.8,Instrumentation,EQ-075,Utilities,115,948.5,2024-11-01,2025-11-23,,Medium
+INV-2275,Pressure relief valve 15 bar,Instrumentation,EQ-029,Production,74,222.18,2026-10-03,2026-10-25,2029-07-25,Low
+INV-1108,Safety relief valve 1 inch,Electrical,EQ-022,Production,15,45.32,2025-02-24,,2028-01-18,High
+INV-3578,Conveyor belt rubber 500mm,Consumables,EQ-085,Maintenance,5,446.41,2025-02-24,2026-01-28,2029-07-24,Medium
+INV-8848,O-ring seal nitrile 50x3,Consumables,EQ-083,Operations,3,70.04,2026-03-01,,,Medium
+INV-3639,Check valve 2 inch swing type,Consumables,EQ-074,Maintenance,51,1134.01,2024-09-06,,,High
+INV-7642,Packing gland PTFE 12mm,Consumables,EQ-093,Maintenance,2,401.45,2025-06-13,2026-01-20,2029-07-03,Low
+INV-3794,Spiral wound gasket DN100,Civil,EQ-075,Operations,62,24.15,2026-05-04,2026-04-24,,Medium
+INV-6614,Lube oil pump gear set,Civil,EQ-030,Maintenance,15,693.2,2025-12-24,2026-02-17,,Medium
+INV-9263,Spring washer M16 SS,Civil,EQ-078,Operations,38,343.66,2024-05-26,,2027-01-29,Low
+INV-9706,Safety relief valve 1 inch,Mechanical,EQ-062,Maintenance,10,575.98,2024-08-03,2026-02-06,2029-04-12,Medium
+INV-7068,Generator AVR module,Mechanical,EQ-030,Production,64,258.89,2026-07-25,2026-09-11,,Low
+INV-2600,Contactor 3-phase 40A,Electrical,EQ-062,Utilities,200,1061.89,2025-03-01,2025-05-25,,Low
+INV-7695,Flange gasket PTFE 4 inch,Electrical,EQ-091,Maintenance,20,107.76,2023-11-25,2024-07-23,2028-12-18,Medium
+INV-6175,Motor control relay 24VDC,Instrumentation,EQ-020,Maintenance,26,737.89,2026-04-01,2026-06-04,,Medium
+INV-6990,Mechanical packing braided 10mm,Instrumentation,EQ-097,Production,165,356.61,2025-01-01,2026-07-25,2028-12-08,Medium
+INV-8925,Flange gasket PTFE 4 inch,Instrumentation,EQ-100,Utilities,58,32.52,2026-02-03,2026-04-04,2029-05-13,Medium
+INV-3650,Ball valve 3 inch flanged,Electrical,EQ-044,Production,53,29.66,2024-02-25,,2026-11-21,Low
+INV-3381,Level switch float type,Consumables,EQ-012,Production,10,170.64,2024-03-21,2025-04-04,,High
+INV-7296,Lube oil pump gear set,Civil,EQ-092,Utilities,13,93.15,2024-03-07,2026-06-24,,Medium
+INV-1175,Pump shaft sleeve stainless steel,Consumables,EQ-025,Utilities,14,24.04,2024-01-18,2025-05-06,2027-01-23,Medium
+INV-1004,Pump mechanical seal type 21,Mechanical,EQ-100,Utilities,45,57.46,2026-02-06,2026-08-27,2027-12-26,Medium
+INV-2124,Vibration isolator mounting pad,Mechanical,EQ-093,Utilities,9,200.56,2025-10-23,2026-03-13,,Low
+INV-8450,Lube oil pump gear set,Civil,EQ-034,Maintenance,84,90.86,2024-11-03,2025-02-20,2029-09-06,High
+INV-2917,Turbine blade inspection cover,Consumables,EQ-069,Utilities,115,3911.47,2025-04-06,2026-04-27,2028-03-23,Medium
+INV-8517,Spring washer M16 SS,Civil,EQ-062,Maintenance,7,110.31,2024-07-06,2025-08-01,2028-02-05,Medium
+INV-4767,Turbine blade inspection cover,Instrumentation,EQ-046,Production,189,992.79,2026-10-03,2026-10-19,,High
+INV-6603,Gate valve 2 inch DN50,Consumables,EQ-061,Operations,28,1711.85,2025-08-14,2026-06-03,,Low
+INV-4115,Flow meter electromagnetic 2 inch,Electrical,EQ-095,Operations,10,131.49,2025-03-20,2025-10-17,,Low
+INV-6833,Centrifugal pump impeller 150mm,Mechanical,EQ-011,Maintenance,8,119.26,2026-08-15,2026-10-23,2029-07-25,Medium
+INV-6167,Flow meter electromagnetic 2 inch,Consumables,EQ-063,Utilities,60,134.94,2024-11-19,2026-04-26,,High
+INV-3101,Thrust ball bearing 51107,Consumables,EQ-062,Production,139,199.99,2024-01-16,2026-04-01,2027-11-03,Medium
+INV-2972,Flat washer M20 SS316,Consumables,EQ-041,Production,86,156.32,2023-11-28,,,Medium
+INV-6331,Conveyor belt rubber 500mm,Consumables,EQ-024,Utilities,1,59.84,2025-05-02,,2028-10-13,Medium
+INV-9171,Contactor 3-phase 40A,Electrical,EQ-090,Production,47,369.57,2025-12-12,2026-07-05,,High
+INV-3148,Gear oil 220 cSt 20L,Electrical,EQ-093,Maintenance,10,155.73,2025-05-16,2026-08-01,2027-12-17,High
+INV-3450,Level switch float type,Mechanical,EQ-054,Operations,10,4141.66,2026-08-30,,2029-10-04,Medium
+INV-6172,Gearbox output shaft seal,Civil,EQ-033,Utilities,34,754.01,2024-02-16,2026-01-23,,High
+INV-5166,Level switch float type,Mechanical,EQ-096,Production,3,158.37,2025-09-26,2026-03-29,2028-04-21,Medium
+INV-7746,Butterfly valve 4 inch wafer,Instrumentation,EQ-074,Operations,5,493.03,2024-11-02,2025-08-20,,Medium
+INV-8987,Coupling flexible spider insert,Civil,EQ-049,Maintenance,87,469.75,2025-06-19,2026-10-21,,High
+INV-6527,Motor control relay 24VDC,Consumables,EQ-010,Production,32,898.15,2024-04-21,,,Medium
+INV-5773,Pipe flange raised face DN80,Instrumentation,EQ-035,Production,3,30.02,2026-05-10,2026-08-10,2029-10-12,Low
+INV-7782,Pump mechanical seal type 21,Electrical,EQ-017,Maintenance,12,54.12,2025-03-05,2025-05-25,,Medium
+INV-2565,Gate valve 2 inch DN50,Civil,EQ-004,Maintenance,51,89.2,2026-02-01,2026-03-15,,Medium
+INV-2381,Stud bolt M20x150 SS316,Civil,EQ-030,Utilities,9,242.27,2025-03-31,2026-06-27,2027-08-06,Medium
+INV-3795,Angular contact bearing 7308,Mechanical,EQ-042,Utilities,45,10.0,2026-07-13,2026-11-01,2028-05-21,Medium
+INV-3213,Cooling fan motor 0.75 kW,Consumables,EQ-076,Operations,35,86.12,2026-06-03,2026-10-25,2029-11-08,Medium
+INV-6688,Level switch float type,Consumables,EQ-012,Operations,69,1198.29,2026-05-03,2026-08-16,,Medium
+INV-1001,Pressure relief valve 15 bar,Electrical,EQ-037,Utilities,33,62.92,2026-06-28,2026-10-31,2029-07-15,High
+INV-8052,Turbine blade inspection cover,Instrumentation,EQ-001,Operations,12,326.37,2025-12-15,,2029-04-24,Medium
+INV-3675,Pipe flange raised face DN80,Civil,EQ-029,Production,42,353.07,2025-05-02,,2029-10-04,Medium
+INV-5454,Air filter element compressed,Consumables,EQ-053,Utilities,76,398.12,2024-11-30,2025-06-04,,High
+INV-8460,Mechanical packing braided 10mm,Civil,EQ-090,Utilities,72,577.1,2026-08-14,,,High
+INV-9764,Angular contact bearing 7308,Electrical,EQ-037,Maintenance,47,820.76,2025-05-15,,2026-11-27,High
+INV-3468,Deep groove ball bearing 6205,Civil,EQ-044,Operations,55,1537.67,2026-03-20,2026-10-10,2028-12-10,Medium
+INV-1519,V-belt type A-56,Mechanical,EQ-008,Operations,6,156.9,2025-05-09,2025-07-21,2027-11-17,High
+INV-5097,Heat exchanger tube bundle gasket,Civil,EQ-016,Maintenance,54,89.99,2025-04-03,2026-06-30,,Low
+INV-4263,Temperature transmitter PT100,Mechanical,EQ-061,Operations,7,404.2,2026-01-15,2026-06-23,2027-10-01,Medium
+INV-1691,Pipe tee equal 1.5 inch SS,Consumables,EQ-033,Maintenance,28,395.64,2026-07-23,2026-08-17,,High
+INV-4568,Butterfly valve 4 inch wafer,Electrical,EQ-042,Production,0,652.82,2023-12-11,,,High
+INV-4982,Deep groove ball bearing 6205,Mechanical,EQ-089,Production,158,40.97,2024-09-23,2024-12-23,,Medium
+INV-6544,Lube oil pump gear set,Mechanical,EQ-046,Maintenance,39,604.24,2024-09-21,2025-01-08,,High
+INV-6690,Turbine blade inspection cover,Civil,EQ-003,Operations,31,48.41,2025-12-23,2026-03-01,,High

@@ -1,0 +1,478 @@
+/* Base typography and background (air-gapped plant network safe, no runtime Google Fonts) */
+html, body, [class*="css"], [data-testid="stAppViewContainer"] {
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
+    background-color: #0B1E26 !important;
+    color: #E8F1F2 !important;
+}
+
+/* Chrome and toolbar cleanup */
+#MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDeployButton"] {
+    display: none !important;
+}
+
+header[data-testid="stHeader"] {
+    background: transparent !important;
+    display: flex !important;
+    visibility: visible !important;
+    height: auto !important;
+    width: auto !important;
+    z-index: 99999 !important;
+}
+
+/* Ensure sidebar toggle chevron is ALWAYS visible and styled */
+[data-testid="collapsedControl"],
+header[data-testid="stHeader"] [data-testid="collapsedControl"],
+[data-testid="stExpandSidebarButton"] {
+    display: flex !important;
+    visibility: visible !important;
+    height: auto !important;
+    width: auto !important;
+    color: #E8F1F2 !important;
+    z-index: 100000 !important;
+    opacity: 1 !important;
+}
+
+[data-testid="collapsedControl"] button,
+[data-testid="stExpandSidebarButton"] {
+    color: #E8F1F2 !important;
+    background-color: #112B34 !important;
+    border: 1px solid #1E4A52 !important;
+    border-radius: 8px !important;
+}
+
+/* Main block padding */
+.block-container {
+    padding-top: 1.5rem !important;
+    padding-bottom: 3rem !important;
+    padding-left: 2.5rem !important;
+    padding-right: 2.5rem !important;
+    max-width: 1400px !important;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebar"],
+section[data-testid="stSidebar"] {
+    background-color: #0B1E26 !important;
+    border-right: 1px solid #1E4A52 !important;
+}
+
+[data-testid="stSidebarNav"] {
+    display: none !important;
+}
+
+[data-testid="stSidebar"] .block-container {
+    padding-top: 1.5rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+/* Sidebar Navigation Toggle */
+[data-testid="stSidebar"] div[role="radiogroup"] {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 4px !important;
+    padding: 0 !important;
+}
+
+[data-testid="stSidebar"] div[role="radiogroup"] label {
+    display: flex !important;
+    align-items: center !important;
+    padding: 9px 12px !important;
+    border-radius: 8px !important;
+    cursor: pointer !important;
+    background-color: transparent !important;
+    border: 1px solid transparent !important;
+    transition: all 0.15s ease-in-out !important;
+    margin-bottom: 2px !important;
+}
+
+[data-testid="stSidebar"] div[role="radiogroup"] label:hover {
+    background-color: rgba(30, 74, 82, 0.45) !important;
+    border-color: rgba(46, 213, 115, 0.25) !important;
+}
+
+[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) {
+    background-color: #112B34 !important;
+    border: 1px solid #1E4A52 !important;
+    border-left: 4px solid #2ED573 !important;
+    color: #FFFFFF !important;
+    font-weight: 600 !important;
+}
+
+/* Hide native radio button dot/circle so items look like custom nav pills */
+[data-testid="stSidebar"] div[role="radiogroup"] label input[type="radio"],
+[data-testid="stSidebar"] div[role="radiogroup"] label div[data-testid="stRadioControl"],
+[data-testid="stSidebar"] div[role="radiogroup"] label div[data-baseweb="radio"] div:first-child {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+[data-testid="stSidebar"] div[role="radiogroup"] label div[data-testid="stMarkdownContainer"] p {
+    font-size: 0.92rem !important;
+    color: #E8F1F2 !important;
+    margin: 0 !important;
+    line-height: 1.3 !important;
+}
+
+/* Wordmark in sidebar */
+.recon-wordmark {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: #E8F1F2;
+    padding: 0.25rem 0.5rem 1.25rem 0.5rem;
+    text-transform: uppercase;
+    border-bottom: 1px solid #1E4A52;
+    margin-bottom: 1rem;
+}
+
+/* Sidebar bottom status */
+.sidebar-status-box {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #1E4A52;
+    font-size: 0.8rem;
+    color: #8FA9AE;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.status-dot-green {
+    color: #2ED573;
+    font-size: 0.85rem;
+    display: inline-block;
+    margin-right: 0.35rem;
+}
+
+.status-dot-muted {
+    color: #8FA9AE;
+    font-size: 0.85rem;
+    display: inline-block;
+    margin-right: 0.35rem;
+}
+
+/* Page Header Banner */
+.page-header-banner {
+    background: linear-gradient(90deg, #1F5FA8, #1E9AA6 55%, #2ED573);
+    border-radius: 14px;
+    padding: 22px 28px;
+    margin-bottom: 24px;
+    box-shadow: 0 4px 20px rgba(31, 95, 168, 0.25);
+}
+
+.page-header-title {
+    font-size: 1.55rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.page-header-subtitle {
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.88);
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+
+/* KPI Card */
+.kpi-card {
+    background: #112B34;
+    border: 1px solid #1E4A52;
+    border-radius: 14px;
+    padding: 18px 20px;
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+}
+
+.kpi-accent-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    border-radius: 4px 0 0 4px;
+}
+
+.kpi-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #8FA9AE;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.kpi-value {
+    font-size: 1.65rem;
+    font-weight: 700;
+    color: #E8F1F2;
+    line-height: 1.2;
+}
+
+.kpi-delta {
+    font-size: 0.75rem;
+    color: #8FA9AE;
+    margin-top: 6px;
+}
+
+/* Chart Container Card */
+.chart-card-container {
+    background: #112B34;
+    border: 1px solid #1E4A52;
+    border-radius: 14px;
+    padding: 18px 20px 10px 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+}
+
+.chart-card-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #E8F1F2;
+    margin-bottom: 12px;
+}
+
+/* Empty State */
+.empty-state-box {
+    background: #112B34;
+    border: 1px dashed #1E4A52;
+    border-radius: 14px;
+    padding: 40px 24px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.empty-state-icon {
+    font-size: 2rem;
+    color: #8FA9AE;
+    margin-bottom: 12px;
+}
+
+.empty-state-text {
+    font-size: 0.95rem;
+    color: #8FA9AE;
+    margin-bottom: 16px;
+}
+
+/* Status Chips */
+.status-chip {
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    padding: 3px 10px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.status-chip-green {
+    background: rgba(46, 213, 115, 0.15);
+    color: #2ED573;
+    border: 1px solid rgba(46, 213, 115, 0.35);
+}
+
+.status-chip-amber {
+    background: rgba(246, 196, 83, 0.15);
+    color: #F6C453;
+    border: 1px solid rgba(246, 196, 83, 0.35);
+}
+
+.status-chip-grey {
+    background: rgba(143, 169, 174, 0.15);
+    color: #8FA9AE;
+    border: 1px solid rgba(143, 169, 174, 0.35);
+}
+
+/* Stepper Component */
+.stepper-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin: 8px 0 24px 0;
+    padding: 10px;
+    background: #0E232B;
+    border: 1px solid #1E4A52;
+    border-radius: 12px;
+}
+
+.stepper-step {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 16px;
+    border-radius: 9999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.stepper-step-active {
+    background: rgba(46, 213, 115, 0.15);
+    color: #2ED573;
+    border: 1px solid #2ED573;
+}
+
+.stepper-step-inactive {
+    background: transparent;
+    color: #8FA9AE;
+}
+
+.stepper-step-completed {
+    background: rgba(46, 213, 115, 0.08);
+    color: #E8F1F2;
+    border: 1px solid rgba(46, 213, 115, 0.3);
+}
+
+.stepper-arrow {
+    color: #1E4A52;
+    font-size: 0.85rem;
+}
+
+/* Dashed teal file uploader box */
+[data-testid="stFileUploaderDropzone"] {
+    background-color: #0E232B !important;
+    border: 2px dashed #1E4A52 !important;
+    border-radius: 12px !important;
+    padding: 18px !important;
+    transition: border-color 0.2s ease !important;
+}
+
+[data-testid="stFileUploaderDropzone"]:hover {
+    border-color: #2ED573 !important;
+}
+
+[data-testid="stFileUploaderDropzone"] span {
+    color: #8FA9AE !important;
+}
+
+/* Tabs styling */
+div[data-baseweb="tab-list"] {
+    background-color: transparent !important;
+    border-bottom: 1px solid #1E4A52 !important;
+    gap: 1.5rem !important;
+    margin-bottom: 1.25rem !important;
+}
+
+div[data-baseweb="tab"] {
+    background-color: transparent !important;
+    color: #8FA9AE !important;
+    font-weight: 500 !important;
+    font-size: 0.9rem !important;
+    border: none !important;
+    padding: 0.5rem 0.25rem !important;
+}
+
+div[data-baseweb="tab"][aria-selected="true"] {
+    color: #2ED573 !important;
+    border-bottom: 2px solid #2ED573 !important;
+    font-weight: 600 !important;
+}
+
+/* Primary and secondary buttons */
+button[kind="primary"] {
+    background-color: #2ED573 !important;
+    color: #0B1E26 !important;
+    font-weight: 600 !important;
+    border: none !important;
+    border-radius: 8px !important;
+}
+
+button[kind="primary"]:hover {
+    background-color: #25be65 !important;
+    color: #0B1E26 !important;
+}
+
+button[kind="secondary"] {
+    background-color: transparent !important;
+    color: #E8F1F2 !important;
+    border: 1px solid #1E4A52 !important;
+    border-radius: 8px !important;
+}
+
+button[kind="secondary"]:hover {
+    border-color: #2ED573 !important;
+    color: #2ED573 !important;
+}
+
+/* Containers and Expanders */
+[data-testid="stExpander"] {
+    background-color: #112B34 !important;
+    border: 1px solid #1E4A52 !important;
+    border-radius: 10px !important;
+}
+
+[data-testid="stExpander"] summary {
+    color: #E8F1F2 !important;
+    font-weight: 600 !important;
+}
+
+/* Dataframe styling */
+[data-testid="stDataFrame"] {
+    border: 1px solid #1E4A52 !important;
+    border-radius: 10px !important;
+    overflow: hidden !important;
+}
+
+/* Upload Partition & Choice Buttons */
+div[class*="choice_btn_"][class*="_active"] button,
+div[class*="choice_box_"][class*="_active"] button {
+    border: 2px solid #2ED573 !important;
+    background-color: rgba(46, 213, 115, 0.12) !important;
+    color: #2ED573 !important;
+    font-weight: 600 !important;
+}
+
+div[class*="choice_btn_"][class*="_idle"] button,
+div[class*="choice_box_"][class*="_idle"] button {
+    border: 1px solid #1E4A52 !important;
+    background-color: transparent !important;
+    color: #E8F1F2 !important;
+}
+
+div[class*="choice_btn_"] button,
+div[class*="choice_box_"] button {
+    min-height: 48px !important;
+    height: 48px !important;
+    font-size: 14px !important;
+    border-radius: 8px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px !important;
+    transition: all 0.2s ease !important;
+}
+
+/* Ghost back button above banner */
+div[class*="ghost_back_"] button {
+    background: transparent !important;
+    border: none !important;
+    color: #8FA9AE !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    padding: 0 4px !important;
+    box-shadow: none !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    width: auto !important;
+    min-height: 32px !important;
+    height: 32px !important;
+}
+
+div[class*="ghost_back_"] button:hover {
+    color: #2ED573 !important;
+    background: transparent !important;
+    border: none !important;
+}
+
+

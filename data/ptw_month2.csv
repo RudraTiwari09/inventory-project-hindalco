@@ -1,0 +1,58 @@
+permit_id,spare_description_text,quantity_used,equipment_tag,department,permit_start,permit_end,status,remarks
+PTW-AUG-001,Need 000102 for maintenance,2.0,TAG-02,Electrical,2026-08-01,2026-08-01,Closed,Updated remark after audit review
+PTW-AUG-002,Need 000103 for maintenance,2.0,TAG-03,Mechanical,2026-08-02,2026-08-02,Closed,Updated remark after audit review
+PTW-AUG-003,Need 000104 for maintenance,2.0,TAG-04,Electrical,2026-08-03,2026-08-03,Closed,Updated remark after audit review
+PTW-AUG-004,Need 000105 for maintenance,2.0,TAG-05,Mechanical,2026-08-04,2026-08-04,Closed,Completed without incident
+PTW-AUG-005,Need 000106 for maintenance,2.0,TAG-01,Electrical,2026-08-05,2026-08-05,Closed,Completed without incident
+PTW-AUG-006,Need 000107 for maintenance,2.0,TAG-02,Mechanical,2026-08-06,2026-08-06,Closed,Completed without incident
+PTW-AUG-007,Need 000108 for maintenance,2.0,TAG-03,Electrical,2026-08-07,2026-08-07,Closed,Completed without incident
+PTW-AUG-008,Need 000109 for maintenance,2.0,TAG-04,Mechanical,2026-08-08,2026-08-08,Closed,Completed without incident
+PTW-AUG-009,Need 000110 for maintenance,2.0,TAG-05,Electrical,2026-08-09,2026-08-09,Closed,Completed without incident
+PTW-AUG-010,Need 000111 for maintenance,2.0,TAG-01,Mechanical,2026-08-10,2026-08-10,Closed,Completed without incident
+PTW-AUG-011,Need 000112 for maintenance,2.0,TAG-02,Electrical,2026-08-11,2026-08-11,Closed,Completed without incident
+PTW-AUG-012,Need 000113 for maintenance,2.0,TAG-03,Mechanical,2026-08-12,2026-08-12,Closed,Completed without incident
+PTW-AUG-013,Need 000114 for maintenance,2.0,TAG-04,Electrical,2026-08-13,2026-08-13,Closed,Completed without incident
+PTW-AUG-014,Need 000115 for maintenance,2.0,TAG-05,Mechanical,2026-08-14,2026-08-14,Closed,Completed without incident
+PTW-AUG-015,Need 000116 for maintenance,2.0,TAG-01,Electrical,2026-08-15,2026-08-15,Closed,Completed without incident
+PTW-AUG-016,Need 000117 for maintenance,2.0,TAG-02,Mechanical,2026-08-16,2026-08-16,Closed,Completed without incident
+PTW-AUG-017,Need 000118 for maintenance,2.0,TAG-03,Electrical,2026-08-17,2026-08-17,Closed,Completed without incident
+PTW-AUG-018,Need 000119 for maintenance,2.0,TAG-04,Mechanical,2026-08-18,2026-08-18,Closed,Completed without incident
+PTW-AUG-019,Need 000120 for maintenance,2.0,TAG-05,Electrical,2026-08-19,2026-08-19,Closed,Completed without incident
+PTW-AUG-020,Need 000121 for maintenance,2.0,TAG-01,Mechanical,2026-08-20,2026-08-20,Closed,Completed without incident
+PTW-AUG-021,Need 000122 for maintenance,2.0,TAG-02,Electrical,2026-08-21,2026-08-21,Closed,Completed without incident
+PTW-AUG-022,Need 000123 for maintenance,2.0,TAG-03,Mechanical,2026-08-22,2026-08-22,Closed,Completed without incident
+PTW-AUG-023,Need 000124 for maintenance,2.0,TAG-04,Electrical,2026-08-23,2026-08-23,Closed,Completed without incident
+PTW-AUG-024,Need 000125 for maintenance,2.0,TAG-05,Mechanical,2026-08-24,2026-08-24,Closed,Completed without incident
+PTW-AUG-025,Need 000126 for maintenance,2.0,TAG-01,Electrical,2026-08-25,2026-08-25,Closed,Completed without incident
+PTW-AUG-026,Need 000127 for maintenance,2.0,TAG-02,Mechanical,2026-08-26,2026-08-26,Closed,Completed without incident
+PTW-AUG-027,Need 000128 for maintenance,2.0,TAG-03,Electrical,2026-08-27,2026-08-27,Closed,Completed without incident
+PTW-AUG-028,Need 000129 for maintenance,2.0,TAG-04,Mechanical,2026-08-28,2026-08-28,Closed,Completed without incident
+PTW-AUG-029,Need 000130 for maintenance,2.0,TAG-05,Electrical,2026-08-28,2026-08-28,Closed,Completed without incident
+PTW-AUG-030,Need 000131 for maintenance,2.0,TAG-01,Mechanical,2026-08-28,2026-08-28,Closed,Completed without incident
+PTW-SEP-CNL-01,Cancelled job spare request,5.0,TAG-01,Mechanical,2026-09-01,2026-09-01,Cancelled,Job cancelled due to rain
+PTW-SEP-CNL-02,Cancelled job spare request,5.0,TAG-01,Mechanical,2026-09-02,2026-09-02,Cancelled,Job cancelled due to rain
+PTW-SEP-CNL-03,Cancelled job spare request,5.0,TAG-01,Mechanical,2026-09-03,2026-09-03,Cancelled,Job cancelled due to rain
+PTW-SEP-CNL-04,Cancelled job spare request,5.0,TAG-01,Mechanical,2026-09-04,2026-09-04,Cancelled,Job cancelled due to rain
+PTW-SEP-CNL-05,Cancelled job spare request,5.0,TAG-01,Mechanical,2026-09-05,2026-09-05,Cancelled,Job cancelled due to rain
+PTW-LATE-01,Late entry spare for 000102,1.0,TAG-02,Mechanical,2026-08-25,2026-08-26,Closed,Late log entry submitted in September
+PTW-LATE-02,Late entry spare for 000103,1.0,TAG-03,Mechanical,2026-08-25,2026-08-26,Closed,Late log entry submitted in September
+PTW-SEP-001,Need 000122 for routine overhaul,3.0,TAG-02,Electrical,2026-09-01,2026-09-01,Closed,Executed routine replacement
+PTW-SEP-002,Need 000123 for routine overhaul,3.0,TAG-03,Mechanical,2026-09-02,2026-09-02,Closed,Executed routine replacement
+PTW-SEP-003,Need 000124 for routine overhaul,3.0,TAG-04,Electrical,2026-09-03,2026-09-03,Closed,Executed routine replacement
+PTW-SEP-004,Need 000125 for routine overhaul,3.0,TAG-05,Mechanical,2026-09-04,2026-09-04,Closed,Executed routine replacement
+PTW-SEP-005,Need 000126 for routine overhaul,3.0,TAG-01,Electrical,2026-09-05,2026-09-05,Closed,Executed routine replacement
+PTW-SEP-006,Need 000127 for routine overhaul,3.0,TAG-02,Mechanical,2026-09-06,2026-09-06,Closed,Executed routine replacement
+PTW-SEP-007,Need 000128 for routine overhaul,3.0,TAG-03,Electrical,2026-09-07,2026-09-07,Closed,Executed routine replacement
+PTW-SEP-008,Need 000129 for routine overhaul,3.0,TAG-04,Mechanical,2026-09-08,2026-09-08,Closed,Executed routine replacement
+PTW-SEP-009,Need 000130 for routine overhaul,3.0,TAG-05,Electrical,2026-09-09,2026-09-09,Closed,Executed routine replacement
+PTW-SEP-010,Need 000131 for routine overhaul,3.0,TAG-01,Mechanical,2026-09-10,2026-09-10,Closed,Executed routine replacement
+PTW-SEP-011,Need 000132 for routine overhaul,3.0,TAG-02,Electrical,2026-09-11,2026-09-11,Closed,Executed routine replacement
+PTW-SEP-012,Need 000133 for routine overhaul,3.0,TAG-03,Mechanical,2026-09-12,2026-09-12,Closed,Executed routine replacement
+PTW-SEP-013,Need 000134 for routine overhaul,3.0,TAG-04,Electrical,2026-09-13,2026-09-13,Closed,Executed routine replacement
+PTW-SEP-014,Need 000135 for routine overhaul,3.0,TAG-05,Mechanical,2026-09-14,2026-09-14,Closed,Executed routine replacement
+PTW-SEP-015,Need 000136 for routine overhaul,3.0,TAG-01,Electrical,2026-09-15,2026-09-15,Closed,Executed routine replacement
+PTW-SEP-016,Need 000137 for routine overhaul,3.0,TAG-02,Mechanical,2026-09-16,2026-09-16,Closed,Executed routine replacement
+PTW-SEP-017,Need 000138 for routine overhaul,3.0,TAG-03,Electrical,2026-09-17,2026-09-17,Closed,Executed routine replacement
+PTW-SEP-018,Need 000139 for routine overhaul,3.0,TAG-04,Mechanical,2026-09-18,2026-09-18,Closed,Executed routine replacement
+PTW-SEP-019,Need 000140 for routine overhaul,3.0,TAG-05,Electrical,2026-09-19,2026-09-19,Closed,Executed routine replacement
+PTW-SEP-020,Need 000141 for routine overhaul,3.0,TAG-01,Mechanical,2026-09-20,2026-09-20,Closed,Executed routine replacement

@@ -1,0 +1,79 @@
+spare_code,spare_description,storage_location,quantity_in_stock,unit_cost,uom,department,equipment_tag,date_received,last_used_date,expiry_date,category,criticality_flag
+000104,Thrust ball bearing 51107,BIN-4,50.0,1706.0,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000105,Gate valve 2 inch DN50,BIN-1,73.0,1008.0,NOS,Mechanical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000106,Globe valve 1.5 inch SS,BIN-2,66.0,865.0,NOS,Electrical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000107,Ball valve 3 inch flanged,BIN-3,48.0,1515.0,NOS,Mechanical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000108,Butterfly valve 4 inch wafer,BIN-4,21.0,507.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000109,Check valve 2 inch swing type,BIN-1,27.0,,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000110,Centrifugal pump impeller 150mm,BIN-2,47.0,2357.0,NOS,Electrical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000111,Pump mechanical seal type 21,BIN-3,56.0,658.0,NOS,Mechanical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000112,Pump coupling flexible jaw,BIN-4,64.0,2374.0,NOS,Electrical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000113,Pump shaft sleeve stainless steel,BIN-1,56.0,1684.0,NOS,Mechanical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000114,O-ring seal nitrile 50x3,BIN-2,21.0,284.0,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000115,Spiral wound gasket DN100,BIN-3,32.0,1132.0,NOS,Mechanical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000116,Ring joint gasket R-24,BIN-4,18.0,2221.0,NOS,Electrical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000117,Flange gasket PTFE 4 inch,BIN-1,43.0,1758.0,NOS,Mechanical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000118,Oil filter element 10 micron,BIN-2,25.0,849.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000119,Air filter element compressed,BIN-3,23.0,1848.0,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000120,Fuel filter cartridge diesel,BIN-4,60.0,589.0,NOS,Electrical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000121,Hydraulic filter high pressure,BIN-1,54.0,249.0,NOS,Mechanical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000122,V-belt type A-56,BIN-2,38.0,441.0,NOS,Electrical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000123,Timing belt HTD 5M 450,BIN-3,61.0,883.0,NOS,Mechanical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000124,Conveyor belt rubber 500mm,BIN-4,54.0,1189.0,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000125,Electric motor 7.5 kW 4-pole,BIN-1,70.0,702.0,NOS,Mechanical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000126,Motor start capacitor 25uF,BIN-2,68.0,2048.0,NOS,Electrical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000127,Motor control relay 24VDC,BIN-3,57.0,523.0,NOS,Mechanical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000128,Contactor 3-phase 40A,BIN-4,31.0,367.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000129,Pressure gauge 0-10 bar,BIN-1,44.0,274.0,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000130,Temperature transmitter PT100,BIN-2,39.0,1516.0,NOS,Electrical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000131,Level switch float type,BIN-3,85.0,2144.0,NOS,Mechanical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000132,Flow meter electromagnetic 2 inch,BIN-4,80.0,1523.0,NOS,Electrical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000133,Safety relief valve 1 inch,BIN-1,48.0,2333.0,NOS,Mechanical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000134,Pressure relief valve 15 bar,BIN-2,58.0,2098.75,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000135,Lubricating grease EP2 15kg,BIN-3,64.0,2481.7,NOS,Mechanical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000136,Hydraulic oil ISO VG 46 20L,BIN-4,62.0,2674.9,NOS,Electrical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000137,Gear oil 220 cSt 20L,BIN-1,52.0,1596.2,NOS,Mechanical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000138,Compressor oil synthetic 5L,BIN-2,30.0,2347.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000138,Compressor oil synthetic 5L,BIN-99,5.0,2347.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000139,Packing gland PTFE 12mm,BIN-3,48.0,1262.0,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000139,Packing gland PTFE 12mm,BIN-99,5.0,1262.0,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+REC-000140,Mechanical packing braided 10mm,BIN-4,38.0,720.0,NOS,Electrical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+REC-000141,Hex bolt M16x60 grade 8.8,BIN-1,57.0,1156.0,NOS,Mechanical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000142,Stud bolt M20x150 SS316,BIN-2,54.0,1679.0,SET,Electrical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000143,Hex nut M16 galvanised,BIN-3,73.0,,NOS,Mechanical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000144,Spring washer M16 SS,BIN-4,60.0,2263.0,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000145,Flat washer M20 SS316,BIN-1,47.0,679.0,NOS,Mechanical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000146,Pipe flange raised face DN80,BIN-2,37.0,882.0,NOS,Electrical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000147,Pipe elbow 90 degree 2 inch SS,BIN-3,57.0,684.0,NOS,Mechanical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000148,Pipe tee equal 1.5 inch SS,BIN-4,70.0,920.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000149,Coupling rigid 25mm shaft,BIN-1,23.0,62.0,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000150,Coupling flexible spider insert,BIN-2,21.0,1590.0,NOS,Electrical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000151,Gearbox output shaft seal,BIN-3,40.0,741.0,NOS,Mechanical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000152,Turbine blade inspection cover,BIN-4,56.0,216.0,NOS,Electrical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000153,Heat exchanger tube bundle gasket,BIN-1,52.0,1561.0,NOS,Mechanical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000154,Vessel manhole cover gasket,BIN-2,21.0,481.0,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000155,Control panel door seal,BIN-3,43.0,795.0,NOS,Mechanical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000156,Generator AVR module,BIN-4,77.0,1130.0,NOS,Electrical,TAG-01,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000157,Compressor piston ring set,BIN-1,58.0,417.0,NOS,Mechanical,TAG-02,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000158,Compressor valve plate,BIN-2,68.0,583.0,NOS,Electrical,TAG-03,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+000159,Vibration isolator mounting pad,BIN-3,66.0,1212.0,NOS,Mechanical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Mechanical,Medium
+000160,Lube oil pump gear set,BIN-4,44.0,1217.0,NOS,Electrical,TAG-05,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+NEW-001,Brand new spare component 1,BIN-1,25.0,450.0,NOS,Mechanical,TAG-01,2026-09-05,2026-09-10,2028-12-31,Mechanical,High
+NEW-002,Brand new spare component 2,BIN-1,25.0,450.0,NOS,Mechanical,TAG-01,2026-09-05,2026-09-10,2028-12-31,Mechanical,High
+NEW-003,Brand new spare component 3,BIN-1,25.0,450.0,NOS,Mechanical,TAG-01,2026-09-05,2026-09-10,2028-12-31,Mechanical,High
+NEW-004,Brand new spare component 4,BIN-1,25.0,450.0,NOS,Mechanical,TAG-01,2026-09-05,2026-09-10,2028-12-31,Mechanical,High
+NEW-005,Brand new spare component 5,BIN-1,25.0,450.0,NOS,Mechanical,TAG-01,2026-09-05,2026-09-10,2028-12-31,Mechanical,High
+000114,O-ring seal nitrile 50x3,BIN-2,10.0,120.0,NOS,Electrical,TAG-04,2026-08-01,2026-08-15,2028-12-31,Electrical,Medium
+OVERSTOCK-ADD-01,Overstock Add Test Part 1,Bay-C,35.0,2500.0,NOS,Mechanical,EQ-OV-1,2026-10-05,2026-09-15,,Bearings,Medium
+OVERSTOCK-ADD-02,Overstock Add Test Part 2,Bay-C,35.0,2500.0,NOS,Mechanical,EQ-OV-2,2026-10-05,2026-09-15,,Bearings,Medium
+OVERSTOCK-ADD-03,Overstock Add Test Part 3,Bay-C,35.0,2500.0,NOS,Mechanical,EQ-OV-3,2026-10-05,2026-09-15,,Bearings,Medium
+OVERSTOCK-ADD-04,Overstock Add Test Part 4,Bay-C,35.0,2500.0,NOS,Mechanical,EQ-OV-4,2026-10-05,2026-09-15,,Bearings,Medium
+OVERSTOCK-ADD-05,Overstock Add Test Part 5,Bay-C,35.0,2500.0,NOS,Mechanical,EQ-OV-5,2026-10-05,2026-09-15,,Bearings,Medium
+OVERSTOCK-ADD-06,Overstock Add Test Part 6,Bay-C,35.0,2500.0,NOS,Mechanical,EQ-OV-6,2026-10-05,2026-09-15,,Bearings,Medium
+NO-HIST-ADD-01,No History New Spare 1,Bay-D,15.0,8000.0,NOS,Electrical,EQ-NH-1,2026-10-10,,,Electrical,Low
+NO-HIST-ADD-02,No History New Spare 2,Bay-D,15.0,8000.0,NOS,Electrical,EQ-NH-2,2026-10-10,,,Electrical,Low
+NO-HIST-ADD-03,No History New Spare 3,Bay-D,15.0,8000.0,NOS,Electrical,EQ-NH-3,2026-10-10,,,Electrical,Low
+CRIT-SPARE-ADD-01,Critical Turbine Spare 1,Bay-A,20.0,15000.0,SET,Turbine,TRB-CR-1,2026-10-12,2026-08-20,,Turbine,High
+CRIT-SPARE-ADD-02,Critical Turbine Spare 2,Bay-A,20.0,15000.0,SET,Turbine,TRB-CR-2,2026-10-12,2026-08-20,,Turbine,High
+HV-ADD-250K,High Value Boiler Control Module,Bay-E,6.0,50000.0,NOS,Control & Instrumentation,BLR-CNTRL-01,2026-10-15,2026-07-10,,Instrumentation,High
+HV-ADD-240K,High Value Generator Rotor Bearing Set,Bay-A,2.0,120000.0,SET,Generator,GEN-ROTOR-02,2026-10-18,,,Bearings,High

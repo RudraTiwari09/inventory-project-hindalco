@@ -1,0 +1,301 @@
+permit_id,equipment_tag,department,permit_start,permit_end,spare_description_text,quantity_used,matched_spare_code,remarks
+PTW-2026-5828,EQ-073,Operations,2026-01-24 16:41:52.242520,2026-01-25 16:41:52.242520,urgently needed hEaT ExChangER TUbe uNdlE GaSkET for PM,11.0,INV-5582,Replaced due to wear and tear.
+PTW-2025-2128,EQ-061,Utilities,2026-08-08 23:40:51.243320,2026-08-10 09:40:51.243320,installed new Cpl Rigid 25Mm Shafft,15.0,INV-9954,
+PTW-2026-4039,EQ-120,Utilities,2026-07-06 06:36:33.243698,2026-07-07 13:36:33.243698,replaced old HEX BOLT M1X660 GRADE 8.8,3.0,INV-3750,Emergency breakdown repair.
+PTW-2026-4110,EQ-075,Operations,2026-03-01 16:29:30.244019,2026-03-03 05:29:30.244019,pipe flng. raised face dn880 - urgent,11.0,INV-3675,
+PTW-2025-1717,EQ-010,Operations,2026-09-19 23:41:51.244325,2026-09-20 04:41:51.244325,as per WO conTrOl pANeL Door SEAl,16.0,INV-5653,
+PTW-2025-7366,EQ-063,Utilities,2024-12-18 15:38:03.244626,2024-12-20 14:38:03.244626,Compressor Oil Synthetic 5L,3.0,INV-7401,
+PTW-2025-9051,EQ-103,Production,2026-07-25 16:42:21.244909,2026-07-26 00:42:21.244909,ANGULAR CONTACT  BEARING 7308,14.0,INV-2824,Used in corrective maintenance.
+PTW-2025-5355,EQ-037,Maintenance,2026-08-20 16:00:30.245181,2026-08-22 07:00:30.245181,BALL VLV 3 INCH FLGND for PM,,INV-3611,
+PTW-2025-2658,EQ-013,Production,2025-04-06 16:24:36.245454,2025-04-07 17:24:36.245454,installed new sPriNNg washEr m16 ss - urgent,8.0,INV-3778,Used during annual overhaul of unit.
+PTW-2026-2728,EQ-078,Utilities,2026-04-18 10:03:52.245731,2026-04-20 21:03:52.245731,Thrusst Ball Brng 51107 as per schedule,14.0,INV-3711,Used during annual overhaul of unit.
+PTW-2025-7579,EQ-074,Operations,2025-12-30 05:14:17.246002,2026-01-01 14:14:17.246002,urgently needed uFEL fLt  CArTRidGe  DiESEL,11.0,INV-1645,Part used for preventive maintenance job.
+PTW-2026-7755,EQ-035,Utilities,2026-02-26 02:15:33.246280,2026-02-27 09:15:33.246280,ref: PM-Pipe tee equal 1.5 inch SS,7.0,INV-6083,
+PTW-2026-6898,EQ-115,Production,2024-11-10 16:15:31.246555,2024-11-10 21:15:31.246555,ref: PM-globe vlv. 1..5 inch ss,20.0,INV-3807,
+PTW-2025-5945,EQ-046,Operations,2026-09-06 04:23:48.246827,2026-09-07 21:23:48.246827,thrust ball brg. 51107 qty req.,,INV-3101,Replaced per engineer recommendation.
+PTW-2026-9376,EQ-078,Operations,2025-01-22 18:15:05.247102,2025-01-22 23:15:05.247102,ref: PM-MEaSuRIng tapE  5m StEeL,5.0,,
+PTW-2026-5093,EQ-018,Maintenance,2026-01-27 15:15:48.247375,2026-01-29 19:15:48.247375,replaced old GEAR  OIL 220 CST 20L qty req.,7.0,INV-3148,Replaced per engineer recommendation.
+PTW-2026-8905,EQ-023,Maintenance,2026-02-15 20:31:32.247636,2026-02-17 11:31:32.247636,request for foW metER EleCtrOMaGNETic  2 iNCh see remarks,,INV-5026,Installed as per OEM recommendation.
+PTW-2025-1916,EQ-111,Utilities,2026-09-24 21:07:58.247909,2026-09-27 05:07:58.247909,request for Temperature Transmitter Pt100    as per schedule,7.0,INV-6620,Installed per work order WO-2024-0045.
+PTW-2025-7266,EQ-063,Maintenance,2025-07-16 13:06:13.248189,2025-07-19 11:06:13.248189,trb bladE INSPecTIoN CoeR,11.0,INV-2669,Installed per work order WO-2024-0045.
+PTW-2025-1827,EQ-090,Production,2026-06-18 06:34:13.248564,2026-06-20 23:34:13.248564,request for Level swiitch float type,,INV-2041,Used in corrective maintenance.
+PTW-2026-3425,EQ-047,Production,2026-01-28 09:02:11.249010,2026-01-28 16:02:11.249010,replaced old angullar contact bearing 7308 check stock,9.0,INV-1520,
+PTW-2026-3136,EQ-041,Operations,2025-11-24 11:00:07.249334,2025-11-26 14:00:07.249334,need FloW MEter eLectROMAgnetIc 2  InCh as per schedule,7.0,INV-4921,Replaced per engineer recommendation.
+PTW-2025-4970,EQ-035,Utilities,2026-04-26 09:03:10.249636,2026-04-26 21:03:10.249636,urgently needed stud bolt m20x150 ss316 as per schedule,14.0,INV-1854,Part used for preventive maintenance job.
+PTW-2025-6254,EQ-036,Maintenance,2026-07-01 08:30:40.249919,2026-07-03 00:30:40.249919,O-Ring Seal Nitrile  50X3   see remarks,12.0,INV-9498,Used in corrective maintenance.
+PTW-2026-3389,EQ-087,Operations,2026-04-26 20:38:02.250189,2026-04-28 20:38:02.250189,installed new Hydraulic iol ISO VG 46 20L qty req.,3.0,INV-5783,
+PTW-2025-4982,EQ-105,Utilities,2024-11-21 04:37:08.250470,2024-11-23 00:37:08.250470,ref: PM-spiral wound gskt dn100 - urgent,4.0,INV-9922,
+PTW-2026-1372,EQ-002,Operations,2025-04-17 19:44:40.250746,2025-04-20 17:44:40.250746,contactor 3-phase 40a - urgent,9.0,INV-7029,Used in shutdown maintenance window.
+PTW-2025-1301,EQ-074,Maintenance,2025-05-27 22:39:48.251041,2025-05-28 20:39:48.251041,Pipe Flange Raised  Face Dn80 see remarks,,INV-5215,
+PTW-2026-1869,EQ-030,Maintenance,2025-09-08 09:28:57.251311,2025-09-09 20:28:57.251311,as per WO MOT control relay 24VDC  for PM,12.0,INV-7121,Replaced as part of scheduled maintenance.
+PTW-2026-7332,EQ-040,Maintenance,2026-10-13 14:00:30.251579,2026-10-15 07:00:30.251579,installed new Flat Washer M20 Ss316,20.0,INV-5558,Used during annual overhaul of unit.
+PTW-2025-9202,EQ-118,Maintenance,2024-12-11 09:39:01.251852,2024-12-12 17:39:01.251852,mot sstart capacitor 25uF qty req.,10.0,INV-7203,
+PTW-2026-3572,EQ-051,Utilities,2025-08-13 13:20:25.252125,2025-08-15 04:20:25.252125,installed new HEX NUT  M16 GALVANISED,17.0,INV-8916,
+PTW-2025-5221,EQ-101,Utilities,2025-05-04 17:46:41.252394,2025-05-05 13:46:41.252394,installed new vessel mmanhole cover gskt see remarks,13.0,INV-2623,Part failed during operation - emergency replacement.
+PTW-2026-9531,EQ-120,Operations,2025-09-30 16:16:09.252665,2025-10-01 23:16:09.252665,flow meter  electromagnetic 2 inch,14.0,INV-5934,Installed after root cause analysis recommendation.
+PTW-2026-8359,EQ-088,Operations,2026-02-04 19:48:33.252933,2026-02-07 17:48:33.252933,installed new COMP VLV PLATE check stock,7.0,INV-2506,Replaced due to wear and tear.
+PTW-2025-8046,EQ-105,Operations,2025-07-15 03:10:13.253203,2025-07-15 12:10:13.253203,Air  Flt Element  Compressed see remarks,4.0,INV-5480,
+PTW-2025-1483,EQ-020,Production,2025-07-04 03:25:49.253470,2025-07-06 12:25:49.253470,cable  tie  300mm  black,9.0,,
+PTW-2025-2749,EQ-098,Utilities,2026-02-23 21:53:53.253740,2026-02-25 03:53:53.253740,COUPLING FLEXIBLE SPIDER INSERT,8.0,INV-4460,Part used for preventive maintenance job.
+PTW-2025-8808,EQ-038,Production,2026-05-17 13:36:37.254001,2026-05-19 13:36:37.254001,TiminG bELt HtD 5m 450 - urgent,13.0,INV-6419,Used during annual overhaul of unit.
+PTW-2025-4166,EQ-020,Maintenance,2026-10-30 07:58:20.254512,2026-10-31 18:58:20.254512,urgently needed teMpERATuRE trAnsMittER PT100,8.0,INV-4993,Installed per work order WO-2024-0045.
+PTW-2025-2083,EQ-004,Production,2026-04-28 19:18:07.255047,2026-04-30 13:18:07.255047,butterfly  vvl 4 inch  wafer  qty req.,8.0,INV-4568,Used in corrective maintenance.
+PTW-2025-7232,EQ-090,Maintenance,2025-12-19 22:12:52.255397,2025-12-20 12:12:52.255397,lube oil pmp gear set,2.0,INV-7296,Installed per work order WO-2024-0045.
+PTW-2026-1643,EQ-069,Maintenance,2025-04-06 23:40:43.255705,2025-04-08 13:40:43.255705,SPRING  WASHER M16 SS,10.0,INV-4688,Replaced due to wear and tear.
+PTW-2026-3727,EQ-091,Maintenance,2026-04-30 10:16:02.256000,2026-05-03 05:16:02.256000,hydraulic oil iso vg 46 20l as per schedule,15.0,INV-1579,Replaced after vibration analysis findings.
+PTW-2025-9202,EQ-056,Operations,2025-09-11 19:54:23.256280,2025-09-14 00:54:23.256280,replaced old Flat washer  M20  SS316 for PM,1.0,INV-5558,
+PTW-2025-8449,EQ-050,Operations,2026-05-22 12:05:14.256555,2026-05-23 04:05:14.256555,as per WO stud BOLT m20x150 ss316 as per schedule,,INV-8130,Part swapped during routine inspection.
+PTW-2026-2397,EQ-028,Operations,2025-08-31 15:41:35.256837,2025-09-03 14:41:35.256837,as per WO sTUD BOlT m20x150 Ss316 for PM,6.0,INV-1854,Used in shutdown maintenance window.
+PTW-2025-3656,EQ-106,Maintenance,2025-10-02 10:10:53.257109,2025-10-04 02:10:53.257109,replaced old STud BOtL M20X150 ss316 qty req.,15.0,INV-4389,
+PTW-2025-2926,EQ-107,Maintenance,2026-03-09 01:58:39.257385,2026-03-10 10:58:39.257385,vibration isolator mounting pad for PM,,INV-1828,Replaced after vibration analysis findings.
+PTW-2025-9084,EQ-096,Production,2025-10-28 22:54:37.257655,2025-10-31 03:54:37.257655,OIL FLT ELEMENT 10 ICRON,20.0,INV-2419,Installed per work order WO-2024-0045.
+PTW-2026-4401,EQ-085,Maintenance,2026-04-01 22:34:32.257921,2026-04-03 19:34:32.257921,urgently needed V-Blt Type A-56 as per schedule,,INV-7678,Part swapped during routine inspection.
+PTW-2026-6424,EQ-102,Maintenance,2025-09-30 09:15:08.258200,2025-10-01 08:15:08.258200,as per WO heat exhr tube bundle gskt,10.0,INV-5825,Replaced per engineer recommendation.
+PTW-2025-8460,EQ-097,Maintenance,2025-01-21 20:36:42.258476,2025-01-23 11:36:42.258476,urgently needed ANGULAR CONTACT BEARING 7308 check stock,13.0,INV-5831,Used in corrective maintenance.
+PTW-2026-2063,EQ-070,Maintenance,2026-05-04 01:15:24.258744,2026-05-05 13:15:24.258744,flange gasket ptfe 4 inch,14.0,INV-1187,Replaced per engineer recommendation.
+PTW-2025-1953,EQ-037,Maintenance,2025-11-21 04:44:36.259009,2025-11-22 17:44:36.259009,ref: PM-o-ring seal  nitrile 50x3  see remarks,11.0,INV-5295,
+PTW-2026-3125,EQ-075,Production,2025-11-28 01:33:37.259287,2025-11-29 01:33:37.259287,installed new safety relief vlv 1 inch qty req.,8.0,INV-4187,Installed per work order WO-2024-0045.
+PTW-2025-2936,EQ-042,Maintenance,2026-06-06 08:01:07.259551,2026-06-07 11:01:07.259551,installed new Turbine blade inspecion cover see remarks,14.0,INV-5839,Part used for preventive maintenance job.
+PTW-2026-4478,EQ-065,Utilities,2025-05-27 03:17:53.259819,2025-05-27 12:17:53.259819,ref: PM-Cooling fan Mtr 0.75 kW,17.0,INV-2223,Used in corrective maintenance.
+PTW-2025-2865,EQ-017,Production,2026-05-27 04:20:38.260093,2026-05-27 08:20:38.260093,request for check vlv 2 innch swing type,7.0,INV-7421,
+PTW-2026-8849,EQ-102,Operations,2025-11-19 12:20:20.260355,2025-11-20 08:20:20.260355,BUTTERFLY VALVE 4 INCH WAFER,18.0,INV-8118,Replaced after vibration analysis findings.
+PTW-2026-1917,EQ-018,Utilities,2026-01-15 17:51:54.260614,2026-01-18 14:51:54.260614,replaced old fuel flt. cartridge dieesel as per schedule,,INV-1645,Part used for preventive maintenance job.
+PTW-2026-2084,EQ-109,Maintenance,2025-07-31 22:52:16.260875,2025-08-02 23:52:16.260875,replaced old Conveyor belt rubbber 500mm,6.0,INV-3017,Installed as per OEM recommendation.
+PTW-2025-2914,EQ-110,Utilities,2026-05-15 20:59:20.261132,2026-05-16 01:59:20.261132,urgently needed ring joiint gasket r-24 qty req.,3.0,INV-1797,Installed per work order WO-2024-0045.
+PTW-2026-8404,EQ-018,Operations,2025-12-23 09:11:35.261382,2025-12-25 00:11:35.261382,ComP VlV.   PaTe  see remarks,12.0,INV-8622,Used in corrective maintenance.
+PTW-2025-2517,EQ-098,Production,2026-10-14 10:12:38.261652,2026-10-17 03:12:38.261652,installed new Centrifugal PUMP   impeller 150mm check stock,11.0,INV-9792,Replaced per engineer recommendation.
+PTW-2026-6363,EQ-099,Operations,2025-04-18 21:34:36.261913,2025-04-19 02:34:36.261913,Lube oil Pmp. gear set,17.0,INV-5905,
+PTW-2026-1721,EQ-049,Maintenance,2025-07-27 09:34:59.262175,2025-07-29 21:34:59.262175,ref: PM-comp  piston  ring set,4.0,INV-2391,Part swapped during routine inspection.
+PTW-2026-1368,EQ-054,Operations,2025-07-17 18:15:20.262439,2025-07-18 20:15:20.262439,Adhesive epoxy  wo part - urgent,9.0,,Used in corrective maintenance.
+PTW-2026-2927,EQ-057,Utilities,2025-02-07 10:18:30.262703,2025-02-07 12:18:30.262703,req. Angular conttact bearing   7308,18.0,INV-8529,Installed per work order WO-2024-0045.
+PTW-2026-6218,EQ-033,Utilities,2026-01-30 10:17:37.262967,2026-01-31 18:17:37.262967,as per WO HEAT EXCHANGER TUBE  BUNDLE GASKET,10.0,INV-3826,Part used for preventive maintenance job.
+PTW-2026-1831,EQ-043,Maintenance,2025-01-31 19:13:58.263251,2025-02-02 21:13:58.263251,urgently needed Fuel Filter Cartridge Diesel as per schedule,,INV-1685,Used during annual overhaul of unit.
+PTW-2026-6826,EQ-065,Maintenance,2026-10-28 06:33:08.263511,2026-10-30 18:33:08.263511,request for Contactor  3-phase 40A as per schedule,3.0,INV-4443,Installed after root cause analysis recommendation.
+PTW-2026-2593,EQ-051,Production,2025-11-11 00:13:22.263792,2025-11-12 06:13:22.263792,Fire Extinguisher Abc 9KKg see remarks,5.0,,Used in shutdown maintenance window.
+PTW-2026-6954,EQ-095,Utilities,2026-07-16 04:30:45.264059,2026-07-17 22:30:45.264059,need MtR StaarT caPaCIToR 25UF,1.0,INV-9099,
+PTW-2025-6758,EQ-062,Utilities,2026-06-30 00:04:45.264330,2026-07-01 21:04:45.264330,Hard hAT ClaSs e YElLOW,5.0,,Installed as per OEM recommendation.
+PTW-2025-6339,EQ-034,Utilities,2025-12-29 07:42:32.264595,2025-12-31 19:42:32.264595,gEN aVR mOdule,14.0,INV-6744,
+PTW-2025-9977,EQ-041,Production,2024-12-31 20:03:30.264853,2025-01-02 16:03:30.264853,request for comp piston ring  set,19.0,INV-4946,Installed as per OEM recommendation.
+PTW-2026-9921,EQ-055,Maintenance,2026-06-07 19:24:45.265113,2026-06-10 10:24:45.265113,Coupling Riigd 25Mm Shaft,20.0,INV-3717,Emergency breakdown repair.
+PTW-2025-8294,EQ-024,Maintenance,2026-02-18 04:58:17.265365,2026-02-18 18:58:17.265365,MECHANICAL PACKING BRADED 10MM qty req.,20.0,INV-7658,Installed as per OEM recommendation.
+PTW-2026-9098,EQ-021,Maintenance,2025-04-28 13:11:21.265633,2025-04-29 07:11:21.265633,installed new Safety  relef  Vlv. 1 inch,1.0,INV-7937,Part swapped during routine inspection.
+PTW-2025-8421,EQ-028,Production,2025-04-11 12:06:07.265892,2025-04-12 15:06:07.265892,as per WO Temperature transmitter PT100 see remarks,11.0,INV-6620,
+PTW-2026-8122,EQ-100,Maintenance,2026-02-06 03:25:48.266146,2026-02-06 05:25:48.266146,replaced old Pressure Relief Valve 15 Bar qty req.,7.0,INV-8972,Used during annual overhaul of unit.
+PTW-2026-2022,EQ-003,Maintenance,2024-11-11 04:19:56.266401,2024-11-14 04:19:56.266401,ref: PM-Cooling fna mot 0.75  kW,12.0,INV-4684,
+PTW-2026-1510,EQ-095,Production,2026-03-11 03:27:04.266661,2026-03-12 20:27:04.266661,timIng belT HTTd 5M 450 see remarks,7.0,INV-8541,
+PTW-2025-3841,EQ-086,Production,2026-08-27 13:22:44.266928,2026-08-29 12:22:44.266928,TEMPERATURE TRANSMITTER PT100 see remarks,5.0,INV-8381,
+PTW-2025-3200,EQ-031,Maintenance,2025-03-02 08:53:23.267205,2025-03-04 23:53:23.267205,need Conveyor belt rubber 500mm for PM,5.0,INV-3017,
+PTW-2026-8471,EQ-120,Production,2026-03-09 14:48:20.267456,2026-03-10 14:48:20.267456,LEVEL SWITCH FLOAT TYPE - urgent,14.0,INV-1402,Replaced after vibration analysis findings.
+PTW-2026-6821,EQ-019,Maintenance,2026-02-02 10:09:59.267704,2026-02-05 02:09:59.267704,Centrifugal pmp impeler 150mm as per schedule,8.0,INV-7240,Replaced due to wear and tear.
+PTW-2026-9948,EQ-094,Maintenance,2026-01-25 19:41:15.267964,2026-01-28 09:41:15.267964,Control Panel Door Seal - urgent,4.0,INV-7511,Replaced per engineer recommendation.
+PTW-2025-3327,EQ-063,Utilities,2025-11-06 15:39:11.268232,2025-11-09 10:39:11.268232,as per WO Flow  meter  electromagnetic 2 inch see remarks,,INV-5934,Part failed during operation - emergency replacement.
+PTW-2025-8740,EQ-074,Maintenance,2026-04-25 20:40:33.268502,2026-04-28 18:40:33.268502,ELEctRIc mOt  7.5 kW 4-POle qty req.,10.0,INV-7251,Installed after root cause analysis recommendation.
+PTW-2026-9765,EQ-043,Production,2025-12-13 17:20:41.268778,2025-12-16 06:20:41.268778,oil flt element 10 micron,11.0,INV-5923,Used in corrective maintenance.
+PTW-2026-5738,EQ-023,Utilities,2026-05-29 04:20:48.269071,2026-05-30 14:20:48.269071,installed new CENTRIFUGAL PMP. IMPELLER 150MM,,INV-7240,Used during annual overhaul of unit.
+PTW-2025-5780,EQ-083,Maintenance,2025-06-21 07:14:35.269579,2025-06-23 22:14:35.269579,PIPe eLBOW  90 dEgrEe 2 Inch SS for PM,3.0,INV-1251,Part consumed during testing and commissioning.
+PTW-2026-5129,EQ-084,Utilities,2026-09-07 20:15:04.269926,2026-09-09 05:15:04.269926,replaced old CONVEYOR BELT RUBBER 500MM,,INV-3017,
+PTW-2025-3476,EQ-072,Operations,2025-06-01 10:42:47.270225,2025-06-02 17:42:47.270225,req. Angular contact bearing 7308,17.0,INV-4584,Part used for preventive maintenance job.
+PTW-2025-3376,EQ-014,Production,2026-06-18 05:05:58.270509,2026-06-20 10:05:58.270509,urgently needed Stuud bOlT m20x150 SS316 as per schedule,8.0,INV-4389,Replaced per engineer recommendation.
+PTW-2025-4454,EQ-100,Maintenance,2026-03-24 09:13:35.270790,2026-03-25 19:13:35.270790,replaced old SPIRAL WOUND GSKT DN100 - urgent,4.0,INV-3794,
+PTW-2026-7533,EQ-043,Operations,2025-09-01 12:36:42.271067,2025-09-03 14:36:42.271067,PACCKING GLAND PTFE 12MM,5.0,INV-7818,Installed as per OEM recommendation.
+PTW-2025-5731,EQ-115,Production,2026-04-21 12:38:44.271340,2026-04-23 05:38:44.271340,need CPL  irgid 25mm shaft  check stock,2.0,INV-1023,
+PTW-2026-8074,EQ-036,Utilities,2025-07-28 16:51:25.271617,2025-07-30 03:51:25.271617,as per WO check valve 2 inch swing type,4.0,INV-4990,
+PTW-2026-8554,EQ-025,Operations,2026-06-03 21:12:24.271885,2026-06-04 22:12:24.271885,Gearbox output shaft SEAL,6.0,INV-3852,
+PTW-2025-1138,EQ-030,Production,2025-01-25 09:50:55.272156,2025-01-28 05:50:55.272156,Flat wassher M20 SS316,15.0,INV-6222,
+PTW-2026-5127,EQ-098,Maintenance,2024-12-24 16:58:03.272426,2024-12-25 20:58:03.272426,request for PRESSURe GaGuE 0-10 BAR,4.0,INV-1528,Part failed during operation - emergency replacement.
+PTW-2025-3128,EQ-092,Operations,2026-10-07 11:17:34.272705,2026-10-08 02:17:34.272705,replaced old compressor  oil  synthetic 5l qty req.,9.0,INV-4770,
+PTW-2025-8429,EQ-109,Production,2026-05-02 04:33:20.272971,2026-05-03 22:33:20.272971,req. SAFETY HARNESS FULL BODY  check stock,3.0,,
+PTW-2025-7271,EQ-021,Utilities,2026-08-03 20:19:05.273231,2026-08-05 06:19:05.273231,req. vIBrATiOn ISOlator mOuntIng pAD qty req.,3.0,INV-7743,Installed after root cause analysis recommendation.
+PTW-2025-7432,EQ-073,Maintenance,2025-03-02 06:35:29.273501,2025-03-05 04:35:29.273501,request for mtr StART caPACitor   25uf  - urgent,7.0,INV-7149,Part failed during operation - emergency replacement.
+PTW-2026-5243,EQ-034,Maintenance,2026-01-28 07:14:47.273788,2026-01-29 16:14:47.273788,installed new MoT  sTart  cAPAcITOR 25Uf,1.0,INV-9303,Used during annual overhaul of unit.
+PTW-2025-1619,EQ-059,Operations,2026-05-08 06:35:12.274062,2026-05-10 01:35:12.274062,req. MeCH PAckInG BRaiDED 10MM qty req.,19.0,INV-7658,
+PTW-2026-8833,EQ-037,Maintenance,2026-01-04 01:20:27.274329,2026-01-05 06:20:27.274329,as per WO GLoBE VALvE   1.5  Inch sS,,INV-1502,Part consumed during testing and commissioning.
+PTW-2026-2985,EQ-082,Utilities,2026-04-24 02:57:04.274591,2026-04-25 17:57:04.274591,request for PAINt bRuSH SeT indusTRiaL,3.0,,
+PTW-2026-2318,EQ-092,Utilities,2026-03-28 16:20:26.274852,2026-03-29 18:20:26.274852,as per WO Trb blade inspection cover qty req.,2.0,INV-2669,Part swapped during routine inspection.
+PTW-2025-5896,EQ-081,Utilities,2025-11-23 09:41:43.275109,2025-11-23 20:41:43.275109,installed new Level Switch Flota Type,15.0,INV-7232,Used during annual overhaul of unit.
+PTW-2025-4163,EQ-096,Operations,2025-11-25 12:34:03.275372,2025-11-27 14:34:03.275372,urgently needed PACKING  LAND PTFE   12MM as per schedule,,INV-4261,Replaced due to wear and tear.
+PTW-2026-9748,EQ-115,Maintenance,2024-12-09 07:08:15.275643,2024-12-11 03:08:15.275643,urgently needed lubricating grease ep2 15kg,,INV-2938,Replaced as part of scheduled maintenance.
+PTW-2026-2936,EQ-036,Production,2026-04-21 04:53:55.275896,2026-04-24 01:53:55.275896,ref: PM-Temperature   transmitter PT100,19.0,INV-8933,
+PTW-2025-1604,EQ-073,Maintenance,2025-11-11 12:46:57.276148,2025-11-11 18:46:57.276148,need FLNG gsKt ptFe 4 INcH qty req.,5.0,INV-4114,
+PTW-2025-6035,EQ-099,Production,2026-02-28 06:41:18.276437,2026-03-01 04:41:18.276437,request for check valve 2 inch swing tyype see remarks,3.0,INV-2442,Part failed during operation - emergency replacement.
+PTW-2025-9145,EQ-091,Operations,2024-12-29 13:04:10.276696,2024-12-30 15:04:10.276696,lubricating grease ep2 15kg,13.0,INV-7010,
+PTW-2025-6268,EQ-001,Maintenance,2026-02-14 04:31:20.276950,2026-02-15 03:31:20.276950,urgently needed Cylindrical roller Brg. NU2210 for PM,4.0,INV-9626,
+PTW-2026-3753,EQ-003,Operations,2025-10-17 05:50:58.277211,2025-10-18 13:50:58.277211,req. Pressure gauge 0-10 bar,2.0,INV-7266,
+PTW-2026-3584,EQ-073,Maintenance,2024-11-15 10:58:36.277470,2024-11-15 11:58:36.277470,Ball Vlv. 3 Inch Flngd,3.0,INV-7704,Used in shutdown maintenance window.
+PTW-2026-7819,EQ-089,Production,2026-05-02 07:06:24.277728,2026-05-03 00:06:24.277728,urgently needed sANdPAPEEr gRit 120 sHeet,9.0,,Installed as per OEM recommendation.
+PTW-2025-3859,EQ-094,Operations,2026-05-21 14:09:56.277993,2026-05-24 06:09:56.277993,replaced old Puump mechanical seal type 21 see remarks,3.0,INV-8871,Used in corrective maintenance.
+PTW-2026-6699,EQ-066,Operations,2025-04-08 13:56:26.278250,2025-04-09 05:56:26.278250,coupling rigid 25mm shaft qty req.,4.0,INV-8242,Part consumed during testing and commissioning.
+PTW-2025-8605,EQ-074,Operations,2025-06-13 05:34:37.278506,2025-06-13 12:34:37.278506,ref: PM-gate valve 2 inch dn50 for PM,5.0,INV-2638,Installed after root cause analysis recommendation.
+PTW-2026-9151,EQ-026,Maintenance,2024-12-22 11:45:34.278765,2024-12-24 10:45:34.278765,urgently needed CENTRIFUGAL  PPMP IMPELLER  150MM,14.0,INV-9792,
+PTW-2026-1709,EQ-048,Operations,2025-03-13 06:47:44.279036,2025-03-13 10:47:44.279036,ref: PM-pipe flange raised face dn80 - urgent,4.0,INV-4920,
+PTW-2025-8287,EQ-050,Production,2025-04-13 21:36:23.279295,2025-04-15 15:36:23.279295,need Cooling Fan Mtr .75 Kw as per schedule,4.0,INV-8921,
+PTW-2025-4884,EQ-065,Production,2026-10-03 20:51:45.279572,2026-10-05 01:51:45.279572,ref: PM-Flat Washer M20 Ss316,,INV-8679,Replaced as part of scheduled maintenance.
+PTW-2026-3374,EQ-091,Production,2025-03-28 19:54:18.279835,2025-03-30 21:54:18.279835,installed new Conveyor belt rubebr 500mm see remarks,15.0,INV-5002,Part swapped during routine inspection.
+PTW-2026-5418,EQ-010,Maintenance,2026-05-02 04:21:05.280095,2026-05-02 12:21:05.280095,comp valve plate - urgent,4.0,INV-6238,Replaced after vibration analysis findings.
+PTW-2026-3804,EQ-046,Utilities,2026-02-22 09:12:08.280358,2026-02-23 06:12:08.280358,urgently needed Deep Groove Ball Bearing 6205,20.0,INV-4982,Used in shutdown maintenance window.
+PTW-2025-2416,EQ-069,Production,2026-09-11 05:10:01.280637,2026-09-12 09:10:01.280637,hex bolt m16x60 grade 8.8 qty req.,15.0,INV-4490,
+PTW-2026-5041,EQ-035,Operations,2026-10-04 05:23:26.280900,2026-10-05 01:23:26.280900,installed new Butterfly valve 4 inch wafer,1.0,INV-4109,Replaced as part of scheduled maintenance.
+PTW-2025-8711,EQ-068,Maintenance,2025-10-07 04:11:28.281155,2025-10-10 00:11:28.281155,luBe  oiL Pp gEaR  SET,4.0,INV-6614,Installed per work order WO-2024-0045.
+PTW-2025-1203,EQ-020,Operations,2025-02-21 14:32:34.281425,2025-02-23 12:32:34.281425,Cylindrical  Roller Bearing Nu2210  see remarks,3.0,INV-8325,
+PTW-2026-3650,EQ-078,Maintenance,2025-10-29 19:27:32.281690,2025-11-01 07:27:32.281690,Thrust Ball  Baering  51107 for PM,13.0,INV-6666,
+PTW-2026-8607,EQ-029,Maintenance,2025-09-05 11:16:53.281955,2025-09-07 06:16:53.281955,req. Pressure relief Vllv. 15 bar,10.0,INV-8842,Replaced due to wear and tear.
+PTW-2025-2326,EQ-044,Maintenance,2025-12-15 07:59:43.282214,2025-12-17 06:59:43.282214,need PRESSRE  RELIEF  VALVE 15 BAR  check stock,4.0,INV-2275,
+PTW-2026-1669,EQ-055,Maintenance,2026-01-20 01:54:09.282473,2026-01-21 04:54:09.282473,Check  VLV 2  inch  swing type,11.0,INV-7756,
+PTW-2025-8839,EQ-005,Operations,2026-06-18 12:47:00.282730,2026-06-19 17:47:00.282730,request for thrust ball bearing 51107 - urgent,8.0,INV-6666,Installed as per OEM recommendation.
+PTW-2026-1892,EQ-100,Production,2025-11-23 04:32:18.282989,2025-11-25 21:32:18.282989,ref: PM-GEARBOX UOTPUT SHAFT SEAL qty req.,4.0,INV-6172,Emergency breakdown repair.
+PTW-2026-8405,EQ-022,Maintenance,2025-04-05 19:46:37.283247,2025-04-08 06:46:37.283247,as per WO GEN AVR MODULE as per schedule,,INV-7068,
+PTW-2025-5724,EQ-103,Maintenance,2025-03-18 12:04:36.283505,2025-03-20 00:04:36.283505,GeneRATOr  aVr mOdule for PM,5.0,INV-9123,Part consumed during testing and commissioning.
+PTW-2025-9530,EQ-101,Utilities,2025-09-30 01:25:04.283758,2025-10-02 23:25:04.283758,replaced old Ring  Joint Gskt   R-24 for PM,16.0,INV-5872,
+PTW-2026-1351,EQ-052,Maintenance,2026-09-18 16:01:27.284023,2026-09-19 22:01:27.284023,stud bolt m20x150 ss316,17.0,INV-8982,Installed as per OEM recommendation.
+PTW-2026-6346,EQ-026,Production,2025-11-01 06:28:58.284278,2025-11-02 21:28:58.284278,urgently needed PRESSURE GAUGE 0-10 BAR,10.0,INV-9335,
+PTW-2026-4715,EQ-016,Maintenance,2025-03-05 17:50:20.284538,2025-03-07 15:50:20.284538,as per WO luBE  oIl pmp.  gEar SSet,6.0,INV-4470,Used during annual overhaul of unit.
+PTW-2026-3986,EQ-105,Operations,2025-05-14 07:29:19.284801,2025-05-14 22:29:19.284801,ref: PM-lube OiL pUmP GeAR  seT,,INV-8912,
+PTW-2025-8223,EQ-007,Operations,2026-01-21 10:08:02.285065,2026-01-21 15:08:02.285065,ref: PM-flow  meter electromaggnetic 2 inch  as per schedule,12.0,INV-4945,
+PTW-2026-9845,EQ-118,Utilities,2025-02-12 21:21:00.285322,2025-02-13 01:21:00.285322,req. pSiral wounD gASKET dn100 check stock,16.0,INV-9922,Replaced after vibration analysis findings.
+PTW-2026-3556,EQ-002,Utilities,2026-03-28 06:06:49.285660,2026-03-29 20:06:49.285660,need CONVEYOR BELT RUBBER 50MM,10.0,INV-1932,Used in corrective maintenance.
+PTW-2025-8243,EQ-011,Production,2026-10-10 17:04:49.285954,2026-10-10 23:04:49.285954,coNTacTOR   3-PHAse  4a,18.0,INV-7029,
+PTW-2025-7580,EQ-046,Production,2025-08-15 02:54:38.286234,2025-08-15 14:54:38.286234,Pipe elbow 90 degree  2  inch SS  check stock,20.0,INV-3712,Used in shutdown maintenance window.
+PTW-2025-5553,EQ-047,Production,2026-04-20 09:59:17.286507,2026-04-20 21:59:17.286507,hydraulic oil  iso vg 46 20l,13.0,INV-3838,
+PTW-2026-9381,EQ-112,Production,2025-03-05 10:31:26.286776,2025-03-07 17:31:26.286776,req. riing  joint gasket r-24 for PM,12.0,INV-5872,
+PTW-2026-6756,EQ-061,Maintenance,2025-04-27 01:27:39.287111,2025-04-29 10:27:39.287111,fuel filter cartridge  diesel  - urgent,14.0,INV-5631,Replaced due to wear and tear.
+PTW-2025-7944,EQ-079,Operations,2026-08-21 11:40:32.287382,2026-08-21 23:40:32.287382,safety  relief valve 1 inch,10.0,INV-3316,Part consumed during testing and commissioning.
+PTW-2026-2083,EQ-119,Production,2025-01-18 05:24:26.287647,2025-01-18 06:24:26.287647,pRESSURe reliEf VLV. 15 BAr - urgent,9.0,INV-7439,Emergency breakdown repair.
+PTW-2026-3243,EQ-040,Utilities,2026-01-14 17:26:23.287916,2026-01-17 08:26:23.287916,replaced old Conveyor belt rubber 500mm,,INV-1932,Part consumed during testing and commissioning.
+PTW-2026-9095,EQ-064,Operations,2024-12-01 08:56:45.288181,2024-12-01 09:56:45.288181,cooling fan mtr 0.75 kw,10.0,INV-3213,Part consumed during testing and commissioning.
+PTW-2026-3034,EQ-016,Production,2025-03-29 20:21:14.288449,2025-04-01 11:21:14.288449,req. Deep groove  blal Bearing 6205,8.0,INV-5178,
+PTW-2026-9078,EQ-103,Utilities,2026-02-04 20:27:46.288711,2026-02-07 10:27:46.288711,installed new Turb Blade Inspection Cover as per schedule,9.0,INV-2917,Replaced after vibration analysis findings.
+PTW-2025-7114,EQ-078,Maintenance,2026-08-29 01:46:28.288967,2026-08-30 11:46:28.288967,need hydRAulIc OiL isO vG 46 20L as per schedule,2.0,INV-4921,
+PTW-2026-3219,EQ-048,Utilities,2025-08-18 01:11:11.289225,2025-08-20 07:11:11.289225,lUbE Oil PuMp gEaR Set - urgent,12.0,INV-6614,
+PTW-2026-9677,EQ-034,Operations,2026-06-28 20:08:04.289508,2026-06-29 20:08:04.289508,Pressure Relief Vlv 15 Bar as per schedule,20.0,INV-9176,Emergency breakdown repair.
+PTW-2026-6180,EQ-051,Utilities,2025-06-09 08:58:26.289773,2025-06-11 07:58:26.289773,installed new Cylindrical rollre  bearing NU2210   as per schedule,,INV-8498,Part consumed during testing and commissioning.
+PTW-2025-1211,EQ-016,Utilities,2026-07-08 10:38:32.290043,2026-07-11 01:38:32.290043,lubricating grse. ep2  15kg  for PM,6.0,INV-9814,
+PTW-2025-9247,EQ-086,Maintenance,2025-09-30 16:30:36.290310,2025-10-03 03:30:36.290310,replaced old Saefty relief  valve 1 inch check stock,4.0,INV-2718,Installed after root cause analysis recommendation.
+PTW-2025-8856,EQ-023,Utilities,2025-02-26 12:01:13.290569,2025-02-28 21:01:13.290569,ref: PM-Angular contact bearing 7380 qty req.,20.0,INV-9751,Part used for preventive maintenance job.
+PTW-2025-5991,EQ-067,Operations,2025-02-18 12:01:25.290829,2025-02-19 07:01:25.290829,ref: PM-Heat Exch Tube Bundle Gskt,10.0,INV-7643,
+PTW-2025-2287,EQ-092,Maintenance,2025-01-09 21:42:10.291088,2025-01-10 00:42:10.291088,need Spring washer M16 SS check stock,14.0,INV-8517,
+PTW-2025-1537,EQ-015,Maintenance,2025-11-09 20:56:26.291345,2025-11-10 12:56:26.291345,ref: PM-EleCtRiC motOr 7.5 kw 4-pOLe  see remarks,2.0,INV-5583,
+PTW-2025-2581,EQ-038,Operations,2026-02-09 22:19:35.291619,2026-02-11 00:19:35.291619,TIMING BELT HTD 5M 450,12.0,INV-8541,
+PTW-2025-5544,EQ-112,Utilities,2025-03-15 05:37:03.291867,2025-03-17 22:37:03.291867,as per WO conveyor belt rubber 500mm see remarks,20.0,INV-3017,
+PTW-2025-2623,EQ-092,Maintenance,2025-12-26 06:52:50.292124,2025-12-27 10:52:50.292124,req. tuRbiNE BlADE INSPECTION  cOVeR check stock,10.0,INV-7745,
+PTW-2025-2616,EQ-117,Production,2025-08-22 03:58:40.292386,2025-08-23 03:58:40.292386,urgently needed Flow meter electromagnetic 2 inch,4.0,INV-4945,
+PTW-2026-7219,EQ-015,Operations,2025-09-23 02:24:57.292637,2025-09-23 17:24:57.292637,replaced old glboe valve 1.5 inch ss,11.0,INV-3807,
+PTW-2025-9515,EQ-092,Utilities,2026-05-11 21:44:54.292892,2026-05-13 10:44:54.292892,req. LUBRICATING  GRSE.  EP2 15KG  as per schedule,2.0,INV-2044,
+PTW-2026-2895,EQ-053,Utilities,2026-04-28 04:05:16.293170,2026-04-30 13:05:16.293170,need LEVEL SWITCH FLAOT TYPE,14.0,INV-5166,
+PTW-2026-4093,EQ-116,Utilities,2025-03-29 18:57:20.293457,2025-03-29 20:57:20.293457,request for lube oil pmp gear set as per schedule,16.0,INV-5905,Installed as per OEM recommendation.
+PTW-2026-9563,EQ-047,Maintenance,2025-03-01 21:10:37.293712,2025-03-04 00:10:37.293712,installed new Pmp Cpl Flexible Jaw,19.0,INV-3846,Replaced per engineer recommendation.
+PTW-2025-2060,EQ-065,Utilities,2025-04-15 01:47:38.293965,2025-04-17 05:47:38.293965,req. Comp Pistoon Ring Set,14.0,INV-3161,Replaced due to wear and tear.
+PTW-2026-7557,EQ-026,Production,2025-11-21 20:57:32.294231,2025-11-24 14:57:32.294231,as per WO PRESSURE RELIEF VALE 15 BAR qty req.,15.0,INV-1001,
+PTW-2026-9017,EQ-042,Operations,2024-12-03 14:41:54.294486,2024-12-04 03:41:54.294486,ref: PM-Air flt element compressed as per schedule,3.0,INV-1202,Replaced as part of scheduled maintenance.
+PTW-2025-7269,EQ-050,Operations,2025-07-03 16:19:46.294745,2025-07-04 05:19:46.294745,ref: PM-Presure relief  VALVE 15  bar  see remarks,17.0,INV-7439,Used in corrective maintenance.
+PTW-2026-4308,EQ-075,Production,2025-12-07 14:40:05.295006,2025-12-09 00:40:05.295006,as per WO hceck valve 2 inch swing type,18.0,INV-8713,Used in corrective maintenance.
+PTW-2025-8051,EQ-104,Production,2025-10-26 03:22:24.295279,2025-10-27 20:22:24.295279,Pmp. Mech. SEAL ype 21 - urgent,15.0,INV-8113,Replaced as part of scheduled maintenance.
+PTW-2025-5965,EQ-106,Production,2025-10-11 01:05:23.295541,2025-10-11 19:05:23.295541,Gearbox   Output Shaft  SSeal,13.0,INV-3852,Part failed during operation - emergency replacement.
+PTW-2026-9837,EQ-043,Operations,2025-12-09 01:54:21.295806,2025-12-09 09:54:21.295806,req. Vibration isolator mounting pad check stock,16.0,INV-1828,Installed as per OEM recommendation.
+PTW-2026-5660,EQ-098,Maintenance,2025-02-18 02:23:49.296061,2025-02-20 01:23:49.296061,urgently needed COMP OIL SYNTHETIC 5L check stock,19.0,INV-8870,
+PTW-2026-7235,EQ-100,Utilities,2025-09-26 11:32:10.296321,2025-09-28 08:32:10.296321,need Gate Vlv 2 Inch Dn50 - urgent,,INV-8267,
+PTW-2025-6113,EQ-023,Maintenance,2026-09-16 10:49:36.296582,2026-09-18 02:49:36.296582,request for BUTTERFLY VALVE 4 INCH WAFER check stock,6.0,INV-7022,
+PTW-2026-1612,EQ-019,Production,2025-06-05 14:44:53.296836,2025-06-05 17:44:53.296836,need control panel door seal check stock,19.0,INV-1891,
+PTW-2026-7188,EQ-050,Maintenance,2026-07-31 08:54:40.297108,2026-08-02 23:54:40.297108,request for MOTOR  CONTROL RELAY  24VDC qty req.,7.0,INV-7121,
+PTW-2026-3730,EQ-097,Production,2025-04-16 05:39:55.297367,2025-04-18 21:39:55.297367,need control  anel door seal,3.0,INV-4826,Emergency breakdown repair.
+PTW-2025-5708,EQ-018,Production,2026-07-28 11:29:57.297630,2026-07-29 16:29:57.297630,cOolinG faN mttR 0.75 Kw - urgent,3.0,INV-8921,Used in shutdown maintenance window.
+PTW-2025-6518,EQ-008,Production,2025-10-08 06:26:34.297908,2025-10-09 09:26:34.297908,Welding rod E6013 3.2mm for PM,3.0,,Replaced due to wear and tear.
+PTW-2026-8092,EQ-039,Operations,2025-09-28 07:59:21.298168,2025-09-30 11:59:21.298168,timing  belt htd  5m  450 qty req.,17.0,INV-6119,Used in corrective maintenance.
+PTW-2025-1304,EQ-069,Operations,2026-02-01 13:45:01.298422,2026-02-04 05:45:01.298422,luBRiCaTInG GrSe ep2 15Kg,15.0,INV-7853,
+PTW-2026-1981,EQ-097,Production,2025-03-05 06:45:14.298686,2025-03-06 13:45:14.298686,request for riNG JoInt GASket R-24 - urgent,10.0,INV-3141,Installed as per OEM recommendation.
+PTW-2026-2055,EQ-020,Utilities,2026-08-12 07:41:32.298951,2026-08-13 20:41:32.298951,Cooling fan  mot  0.75 kW  - urgent,9.0,INV-9779,Installed per work order WO-2024-0045.
+PTW-2026-4907,EQ-086,Maintenance,2025-05-20 06:40:41.299206,2025-05-21 22:40:41.299206,installed new TURB blade  inspection  covver,18.0,INV-5839,Installed as per OEM recommendation.
+PTW-2025-4309,EQ-070,Maintenance,2025-05-30 05:28:41.299468,2025-05-31 17:28:41.299468,GNR AVR MODULE for PM,6.0,INV-6744,Replaced as part of scheduled maintenance.
+PTW-2026-1326,EQ-047,Utilities,2026-02-20 19:14:38.299728,2026-02-22 10:14:38.299728,need pressure relief vlv. 15 bar qty req.,14.0,INV-8761,Part swapped during routine inspection.
+PTW-2025-7502,EQ-105,Operations,2025-02-05 11:10:56.299992,2025-02-08 04:10:56.299992,Mtr  start capacitor 25uF see remarks,17.0,INV-9303,Used in shutdown maintenance window.
+PTW-2026-9133,EQ-108,Maintenance,2026-07-04 01:56:04.300248,2026-07-05 18:56:04.300248,CENTRIFUGAL PMP IMPELLER 150MM,19.0,INV-6833,Used in corrective maintenance.
+PTW-2025-7928,EQ-081,Operations,2025-04-25 19:53:10.300506,2025-04-27 07:53:10.300506,req. TEMPERATURE TRANSMITTER PPT100 as per schedule,9.0,INV-4993,Replaced as part of scheduled maintenance.
+PTW-2026-9740,EQ-011,Utilities,2026-01-08 10:02:12.300759,2026-01-10 17:02:12.300759,SPIrAl WOUnD gSkt dN100,8.0,INV-8355,Installed after root cause analysis recommendation.
+PTW-2025-6947,EQ-072,Utilities,2024-11-26 21:27:49.301016,2024-11-27 02:27:49.301016,as per WO lubricating grse. p2 15kg,2.0,INV-7853,Used in corrective maintenance.
+PTW-2025-5144,EQ-054,Utilities,2026-10-13 00:40:49.301275,2026-10-13 16:40:49.301275,request for SPRING  WASHER   M16 SS qty req.,8.0,INV-7375,Installed as per OEM recommendation.
+PTW-2025-7438,EQ-109,Utilities,2025-01-19 14:59:59.301526,2025-01-20 21:59:59.301526,request for Safety Relief Vlv 1 Inch qty req.,6.0,INV-4187,Part swapped during routine inspection.
+PTW-2026-7656,EQ-084,Maintenance,2026-08-11 22:07:50.301788,2026-08-14 13:07:50.301788,replaced old tUrb bLADe INsPECTioN COVer as per schedule,14.0,INV-2917,Part used for preventive maintenance job.
+PTW-2026-2644,EQ-095,Utilities,2025-12-08 19:22:17.302044,2025-12-09 04:22:17.302044,Hex Bolt 1M6X60 Grade 8.8 check stock,4.0,INV-2035,Emergency breakdown repair.
+PTW-2026-8426,EQ-092,Maintenance,2026-03-23 16:40:02.302324,2026-03-24 16:40:02.302324,as per WO v-belt type a-56 as per schedule,5.0,INV-8875,
+PTW-2025-6006,EQ-047,Maintenance,2025-03-13 02:38:07.302575,2025-03-14 10:38:07.302575,installed new vessel mahnole  cover  gasket  as per schedule,5.0,INV-8259,Part swapped during routine inspection.
+PTW-2026-6233,EQ-002,Operations,2025-06-01 00:02:13.302825,2025-06-01 23:02:13.302825,urgently needed HEX BOLT M16X60 GRADE 8.8 for PM,11.0,INV-4619,Installed per work order WO-2024-0045.
+PTW-2025-7791,EQ-090,Production,2026-08-20 20:09:25.303082,2026-08-22 01:09:25.303082,Check Valve 2 Inch Swing Type as per schedule,,INV-4602,
+PTW-2025-2457,EQ-107,Utilities,2026-05-09 05:04:02.303332,2026-05-10 03:04:02.303332,vessel manhole cover gasket check stock,,INV-7939,Used in shutdown maintenance window.
+PTW-2026-3445,EQ-072,Operations,2026-01-25 02:47:09.303578,2026-01-25 18:47:09.303578,need HEX NUT M16 GALVANISED see remarks,,INV-7537,Used in corrective maintenance.
+PTW-2026-9096,EQ-027,Operations,2025-04-07 12:36:45.303830,2025-04-08 23:36:45.303830,replaced old levle  switch float type   as per schedule,16.0,INV-4860,
+PTW-2026-4385,EQ-016,Operations,2025-10-01 10:52:00.304088,2025-10-02 10:52:00.304088,butterfly valve 4 inch afer - urgent,5.0,INV-4109,
+PTW-2026-4858,EQ-093,Utilities,2026-02-06 06:42:46.304348,2026-02-08 17:42:46.304348,need pipe elbow 90 degree 2 inch ss as per schedule,,INV-3712,Part consumed during testing and commissioning.
+PTW-2026-7513,EQ-027,Production,2026-05-14 19:08:10.304603,2026-05-17 02:08:10.304603,safety  relief valve 1 nch qty req.,9.0,INV-4187,
+PTW-2025-1853,EQ-045,Production,2026-10-16 23:10:54.304877,2026-10-18 21:10:54.304877,req. Vessel manhole cover Gskt see remarks,20.0,INV-5308,Used in corrective maintenance.
+PTW-2025-1087,EQ-083,Production,2025-07-03 11:45:27.305143,2025-07-05 14:45:27.305143,installed new Pressure Gaue 0-10 Bar,5.0,INV-4434,Emergency breakdown repair.
+PTW-2025-3938,EQ-068,Production,2026-11-03 03:09:47.305402,2026-11-04 23:09:47.305402,level  switch  float type  qty req.,5.0,INV-8690,
+PTW-2026-3323,EQ-039,Maintenance,2025-02-17 20:18:33.305666,2025-02-20 12:18:33.305666,CMRP vlV PlATe,9.0,INV-6238,Installed after root cause analysis recommendation.
+PTW-2026-5635,EQ-109,Utilities,2025-12-17 01:40:52.305930,2025-12-18 18:40:52.305930,Thrust Ball Bearing 51107,6.0,INV-6666,
+PTW-2026-3478,EQ-074,Production,2024-12-21 20:44:43.306185,2024-12-22 21:44:43.306185,urgently needed spiral wound gasket dn100,8.0,INV-3794,
+PTW-2026-5263,EQ-064,Production,2025-02-08 15:27:24.306433,2025-02-11 07:27:24.306433,PRESSURE RELIEF VVLV 15 BAR as per schedule,,INV-8972,
+PTW-2026-8499,EQ-058,Operations,2025-02-14 13:41:38.306688,2025-02-16 10:41:38.306688,ref: PM-hydraulic oil iso vg 46 20l,,INV-3838,Used during annual overhaul of unit.
+PTW-2025-9335,EQ-008,Operations,2026-02-06 18:43:25.306961,2026-02-06 19:43:25.306961,CPR vlV pLate,19.0,INV-6238,
+PTW-2025-5033,EQ-022,Maintenance,2026-09-30 18:20:41.307226,2026-10-02 13:20:41.307226,request for Flow  meter electromagnetic 2 inch qty req.,,INV-1157,Part swapped during routine inspection.
+PTW-2025-7458,EQ-081,Utilities,2025-03-09 23:11:40.307485,2025-03-10 03:11:40.307485,Heat EXchANgeR tUE buNdLe gaskEt qty req.,,INV-1511,Part swapped during routine inspection.
+PTW-2026-8439,EQ-059,Maintenance,2025-07-24 09:34:29.307742,2025-07-24 15:34:29.307742,replaced old gearbox output shaft seal qty req.,15.0,INV-6172,
+PTW-2025-4463,EQ-110,Utilities,2026-07-23 11:08:59.307989,2026-07-23 19:08:59.307989,installed new PUMP MECHANICAL SEAL TYPE 21 qty req.,18.0,INV-8871,Installed as per OEM recommendation.
+PTW-2025-7534,EQ-045,Production,2025-01-18 19:12:09.308246,2025-01-18 22:12:09.308246,urgently needed pressure gauge 0-10 bar check stock,6.0,INV-6399,
+PTW-2026-5668,EQ-036,Operations,2025-02-12 04:47:45.308511,2025-02-13 19:47:45.308511,replaced old GENERATOR  ARV MODULE see remarks,14.0,INV-1472,Installed after root cause analysis recommendation.
+PTW-2026-3151,EQ-099,Utilities,2025-12-13 17:09:38.308763,2025-12-14 19:09:38.308763,HETA EXCHANGER TUBE BUNDLE GASKET qty req.,13.0,INV-4836,Used in shutdown maintenance window.
+PTW-2026-2478,EQ-072,Operations,2025-10-13 16:55:58.309018,2025-10-15 23:55:58.309018,Ring joint gskt R-24 qty req.,,INV-3573,Replaced after vibration analysis findings.
+PTW-2025-3540,EQ-117,Maintenance,2025-06-24 07:42:32.309273,2025-06-26 19:42:32.309273,request for Gearbbox output shaft seal as per schedule,16.0,INV-9312,
+PTW-2025-5921,EQ-069,Production,2025-06-28 00:47:19.309533,2025-06-28 07:47:19.309533,cOupLInG rigid   25mM SHAfT see remarks,2.0,INV-9954,Emergency breakdown repair.
+PTW-2026-7766,EQ-074,Utilities,2025-08-13 14:49:21.309802,2025-08-14 23:49:21.309802,replaced old teMPeratuRE transMiTTER Pt100 check stock,17.0,INV-4203,
+PTW-2026-3941,EQ-090,Maintenance,2025-01-14 05:15:38.310069,2025-01-16 11:15:38.310069,Heat exchanger tueb bundle gasket qty req.,10.0,INV-5582,
+PTW-2026-8371,EQ-012,Utilities,2026-10-24 15:27:31.310323,2026-10-25 15:27:31.310323,as per WO V-BELT TYEP A-56 - urgent,3.0,INV-9945,Used in shutdown maintenance window.
+PTW-2026-2742,EQ-076,Maintenance,2025-09-13 06:42:44.310584,2025-09-13 21:42:44.310584,PUMp  CouPlING  FleXIBLe  Jaw,,INV-3846,Replaced after vibration analysis findings.
+PTW-2026-8974,EQ-091,Utilities,2026-04-30 23:29:24.310867,2026-05-03 02:29:24.310867,Gate Vlv. 2 inch DN50,3.0,INV-2565,
+PTW-2025-4126,EQ-076,Operations,2026-09-08 17:45:24.311135,2026-09-08 21:45:24.311135,Angular contact Brg. 7308 for PM,5.0,INV-2824,Installed as per OEM recommendation.
+PTW-2025-2410,EQ-064,Operations,2025-11-13 16:24:32.311393,2025-11-15 23:24:32.311393,need Air  flt element  compressed,,INV-5480,
+PTW-2025-8295,EQ-116,Maintenance,2026-09-09 08:22:45.311651,2026-09-11 18:22:45.311651,urgently needed CONVEYOR BELT  RUBBER 500MM,7.0,INV-6331,
+PTW-2026-1834,EQ-081,Production,2025-09-29 09:33:31.311906,2025-10-02 01:33:31.311906,flOW metER eLEctRomAgNETic 2 iNcH qty req.,20.0,INV-5026,Replaced due to wear and tear.
+PTW-2025-8987,EQ-015,Production,2025-05-09 15:38:56.312161,2025-05-09 23:38:56.312161,PrESsuRe rELIEf Vlv. 15 BaR,14.0,INV-4387,Emergency breakdown repair.
+PTW-2025-5388,EQ-114,Production,2025-02-09 08:32:43.312425,2025-02-12 00:32:43.312425,Ball VLV 3 inch flngd,12.0,INV-3308,Installed as per OEM recommendation.
+PTW-2025-3643,EQ-086,Production,2025-08-04 14:23:30.312686,2025-08-06 23:23:30.312686,Moot Control  Relay   24Vdc see remarks,8.0,INV-2641,Part swapped during routine inspection.
+PTW-2026-8675,EQ-071,Production,2025-09-30 07:27:56.312944,2025-10-02 06:27:56.312944,replaced old Pmp Shaft Sleeve Stainless Steel,6.0,INV-3877,Replaced due to wear and tear.
+PTW-2025-8911,EQ-065,Operations,2026-02-24 00:35:30.313206,2026-02-26 15:35:30.313206,TURBINE BLADE INSPECTION CVOER - urgent,14.0,INV-5839,Replaced after vibration analysis findings.
+PTW-2026-4845,EQ-048,Maintenance,2025-08-16 04:52:54.313455,2025-08-17 14:52:54.313455,MTR START CAPACITOR 25UF for PM,6.0,INV-6658,
+PTW-2025-2043,EQ-011,Operations,2025-02-12 06:23:59.313743,2025-02-15 06:23:59.313743,request for Butterfly VALVE 4 inch wafer  check stock,9.0,INV-4109,Used in corrective maintenance.
+PTW-2026-1764,EQ-066,Utilities,2026-10-07 17:11:05.313998,2026-10-08 13:11:05.313998,request for COMP VLV PLATE qty req.,17.0,INV-3293,Part failed during operation - emergency replacement.
+PTW-2025-8173,EQ-005,Maintenance,2025-01-31 18:34:45.314255,2025-02-01 08:34:45.314255,need trb bLADe InSPECTioN covER,2.0,INV-2669,Used during annual overhaul of unit.
+PTW-2025-4365,EQ-106,Utilities,2026-05-14 13:44:01.314517,2026-05-16 22:44:01.314517,need aNgulAR CONTacT BEaRIng 7308 check stock,16.0,INV-8529,Part failed during operation - emergency replacement.
+PTW-2025-6959,EQ-070,Maintenance,2026-08-31 15:34:15.314774,2026-09-01 17:34:15.314774,urgently needed Spiral Wound Gasket Dn100 for PM,14.0,INV-1916,Replaced as part of scheduled maintenance.
+PTW-2025-8760,EQ-068,Operations,2025-01-15 17:29:10.315030,2025-01-17 04:29:10.315030,as per WO PaCkinG Gland PtFe 21Mm see remarks,14.0,INV-2169,
+PTW-2025-3483,EQ-063,Production,2026-07-14 23:22:37.315289,2026-07-16 05:22:37.315289,Vessel manhole  cover gasket   - urgent,14.0,INV-5308,Installed as per OEM recommendation.
+PTW-2026-9456,EQ-097,Maintenance,2025-10-20 06:52:36.315552,2025-10-21 01:52:36.315552,Lubricating  Grse  Ep2 15Kg - urgent,17.0,INV-6608,Part failed during operation - emergency replacement.
+PTW-2026-6157,EQ-089,Operations,2025-10-13 16:18:20.315815,2025-10-14 00:18:20.315815,Heat  exchanger  tube bundle gasket,2.0,INV-5825,Part swapped during routine inspection.
+PTW-2025-1947,EQ-117,Utilities,2025-10-02 05:01:45.316068,2025-10-04 09:01:45.316068,need FLAT WASHER M20 SS316 see remarks,18.0,INV-2972,Replaced per engineer recommendation.
+PTW-2026-6638,EQ-084,Operations,2026-05-08 11:03:29.316347,2026-05-10 15:03:29.316347,request for Motor Start Capacitor 25Uf - urgent,7.0,INV-7203,Used in shutdown maintenance window.
+PTW-2026-6656,EQ-113,Operations,2026-09-25 19:10:13.316598,2026-09-27 10:10:13.316598,Cpl Rigid 25Mm Shaft,,INV-3717,Installed as per OEM recommendation.
+PTW-2025-9527,EQ-110,Operations,2025-01-21 14:53:38.316852,2025-01-24 08:53:38.316852,Centrifugal Pump Impeller 1500Mm,17.0,INV-6833,
+PTW-2025-1383,EQ-009,Utilities,2025-05-16 23:30:41.317105,2025-05-18 14:30:41.317105,need Pipe Flng. raised face D80,17.0,INV-9984,
+PTW-2025-7110,EQ-068,Utilities,2025-02-14 16:39:14.317363,2025-02-14 23:39:14.317363,installed new moT STaRt caPACITOr 25UF,4.0,INV-4630,Used in shutdown maintenance window.
+PTW-2025-8424,EQ-045,Operations,2025-08-09 15:22:10.317625,2025-08-11 06:22:10.317625,request for OIL FILTER ELEMENT 10 MICRON see remarks,19.0,INV-5923,Replaced per engineer recommendation.
+PTW-2026-9514,EQ-081,Utilities,2025-12-16 15:58:18.317882,2025-12-17 16:58:18.317882,replaced old Pmp Cpl Flexible  Jwa  qty req.,12.0,INV-3846,Used during annual overhaul of unit.
+PTW-2026-7751,EQ-021,Production,2026-10-01 15:37:32.318141,2026-10-02 08:37:32.318141,as per WO LAAPTOP POWER ADAPTER 65W qty req.,15.0,,
+PTW-2026-9502,EQ-012,Production,2026-03-19 21:06:27.318398,2026-03-22 04:06:27.318398,puMp ShAfT  SLeEVE StAINLesS  Steel  as per schedule,16.0,INV-5895,Installed as per OEM recommendation.
+PTW-2025-3364,EQ-073,Production,2025-02-19 00:31:35.318659,2025-02-21 18:31:35.318659,butTeRFLy VLV 4 iNCH waFEr check stock,4.0,INV-4109,Replaced after vibration analysis findings.
+PTW-2026-1534,EQ-066,Utilities,2026-10-27 10:17:45.318970,2026-10-28 02:17:45.318970,replaced old Pressure Relief Vlv 15 Bar,14.0,INV-8761,
+PTW-2026-5744,EQ-014,Maintenance,2025-08-26 01:15:55.319238,2025-08-27 17:15:55.319238,replaced old Temperature Trasmitter Pt100,10.0,INV-7044,
+PTW-2025-3340,EQ-096,Production,2024-12-18 07:31:59.319506,2024-12-19 23:31:59.319506,ref: PM-SPring waSHEr m16 ss,7.0,INV-7375,
+PTW-2026-1034,EQ-100,Maintenance,2026-09-17 14:32:19.319768,2026-09-17 20:32:19.319768,ref: PM-motor start capacitor 25uf check stock,19.0,INV-9179,
+PTW-2026-6534,EQ-043,Operations,2026-06-25 08:24:44.320029,2026-06-26 02:24:44.320029,req. Mot Control Relay 244Vdc as per schedule,15.0,INV-6527,Part swapped during routine inspection.
+PTW-2026-3440,EQ-111,Maintenance,2026-07-24 18:10:52.320288,2026-07-26 23:10:52.320288,installed new PressuRE gaugE 0-10 bar,13.0,INV-8682,
+PTW-2025-8259,EQ-031,Maintenance,2026-09-14 03:09:23.320547,2026-09-15 01:09:23.320547,req. Pipe Tee Equal 1.5   Inch Ss,19.0,INV-4625,Used in corrective maintenance.
+PTW-2026-3028,EQ-047,Operations,2026-03-06 02:05:29.320806,2026-03-09 00:05:29.320806,need Cpl Flexiible Spider Insert - urgent,2.0,INV-5625,Emergency breakdown repair.
+PTW-2025-8796,EQ-076,Maintenance,2026-04-05 19:21:48.321076,2026-04-08 16:21:48.321076,ref: PM-Packing Gland Ptfe 12Mm,8.0,INV-6635,
+PTW-2025-5018,EQ-056,Production,2025-01-15 06:33:50.321353,2025-01-18 03:33:50.321353,as per WO Compressor   Valve Plate check stock,13.0,INV-8622,Replaced after vibration analysis findings.
+PTW-2025-6569,EQ-079,Maintenance,2026-09-09 05:37:11.321644,2026-09-12 01:37:11.321644,req. Mot cONTRoL RElAY 24VdC see remarks,9.0,INV-3263,
+PTW-2025-9876,EQ-085,Operations,2025-05-28 00:29:36.321909,2025-05-28 12:29:36.321909,Timing belt HTD 5M 450,14.0,INV-5573,Replaced as part of scheduled maintenance.
+PTW-2026-3973,EQ-021,Utilities,2025-09-09 09:36:54.322162,2025-09-09 22:36:54.322162,Gear Oil 202 Cst  20L - urgent,14.0,INV-2025,Replaced due to wear and tear.
+PTW-2026-2981,EQ-045,Operations,2025-11-28 10:24:53.322423,2025-12-01 04:24:53.322423,ref: PM-mot start capacitor 25uf see remarks,13.0,INV-4630,Replaced due to wear and tear.
+PTW-2025-6215,EQ-020,Maintenance,2025-11-21 14:13:23.322680,2025-11-21 18:13:23.322680,req. LEvEL Switch FloaT TYpE,8.0,INV-1402,Replaced as part of scheduled maintenance.
+PTW-2026-2663,EQ-066,Operations,2025-07-05 03:00:24.322940,2025-07-07 08:00:24.322940,Pipe Elbow 90 Degree 2 Inch Ss,10.0,INV-7815,
+PTW-2025-7116,EQ-062,Operations,2026-01-02 01:00:08.323193,2026-01-04 08:00:08.323193,replaced old Pipe  Tee  Equal 1.5  Inch Ss,18.0,INV-5237,Replaced as part of scheduled maintenance.
+PTW-2026-5739,EQ-062,Maintenance,2024-12-27 06:21:20.323456,2024-12-29 20:21:20.323456,request for leevel sWitCH FlOat TYPE  qty req.,9.0,INV-4860,Installed as per OEM recommendation.
+PTW-2026-4485,EQ-015,Utilities,2024-12-15 20:30:31.323721,2024-12-16 17:30:31.323721,ref: PM-Conveyor bellt rubber 500mm,19.0,INV-3578,
+PTW-2025-7476,EQ-070,Utilities,2026-09-23 16:55:28.323975,2026-09-26 00:55:28.323975,flat washer mm20 ss316,17.0,INV-5847,Part used for preventive maintenance job.

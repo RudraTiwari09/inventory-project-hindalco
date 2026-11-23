@@ -1,0 +1,31 @@
+anomaly_id,type,description,ptw_permit_id,inventory_spare_code,detail
+ANO-001,A,Quantity used in PTW exceeds stock in inventory,PTW-2026-2663,INV-7815,quantity_used=10 > quantity_in_stock=2
+ANO-002,A,Quantity used in PTW exceeds stock in inventory,PTW-2026-4093,INV-5905,quantity_used=16 > quantity_in_stock=3
+ANO-003,A,Quantity used in PTW exceeds stock in inventory,PTW-2025-8839,INV-6666,quantity_used=8 > quantity_in_stock=4
+ANO-004,A,Quantity used in PTW exceeds stock in inventory,PTW-2026-8122,INV-8972,quantity_used=7 > quantity_in_stock=4
+ANO-005,A,Quantity used in PTW exceeds stock in inventory,PTW-2025-8295,INV-6331,quantity_used=7 > quantity_in_stock=1
+ANO-006,A,Quantity used in PTW exceeds stock in inventory,PTW-2025-5780,INV-1251,quantity_used=3 > quantity_in_stock=1
+ANO-007,A,Quantity used in PTW exceeds stock in inventory,PTW-2026-2644,INV-2035,quantity_used=4 > quantity_in_stock=3
+ANO-008,A,Quantity used in PTW exceeds stock in inventory,PTW-2025-1916,INV-6620,quantity_used=7 > quantity_in_stock=5
+ANO-009,A,Quantity used in PTW exceeds stock in inventory,PTW-2026-1510,INV-8541,quantity_used=7 > quantity_in_stock=2
+ANO-010,A,Quantity used in PTW exceeds stock in inventory,PTW-2025-8796,INV-6635,quantity_used=8 > quantity_in_stock=4
+ANO-011,B,PTW spare description does not match any inventory item,PTW-2026-7751,N/A,PTW description: 'Laptop power adapter 65W'
+ANO-012,B,PTW spare description does not match any inventory item,PTW-2025-8429,N/A,PTW description: 'Safety harness full body'
+ANO-013,B,PTW spare description does not match any inventory item,PTW-2025-6758,N/A,PTW description: 'Hard hat class E yellow'
+ANO-014,B,PTW spare description does not match any inventory item,PTW-2026-2593,N/A,PTW description: 'Fire extinguisher ABC 9kg'
+ANO-015,B,PTW spare description does not match any inventory item,PTW-2025-6518,N/A,PTW description: 'Welding rod E6013 3.2mm'
+ANO-016,B,PTW spare description does not match any inventory item,PTW-2026-2985,N/A,PTW description: 'Paint brush set industrial'
+ANO-017,B,PTW spare description does not match any inventory item,PTW-2025-1483,N/A,PTW description: 'Cable tie 300mm black'
+ANO-018,B,PTW spare description does not match any inventory item,PTW-2026-1368,N/A,PTW description: 'Adhesive epoxy two part'
+ANO-019,B,PTW spare description does not match any inventory item,PTW-2026-7819,N/A,PTW description: 'Sandpaper grit 120 sheet'
+ANO-020,B,PTW spare description does not match any inventory item,PTW-2026-9376,N/A,PTW description: 'Measuring tape 5m steel'
+ANO-021,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2025-4454,INV-3794,date_received=2026-05-04 > permit_start=2026-03-24
+ANO-022,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2026-5635,INV-6666,date_received=2026-01-24 > permit_start=2025-12-17
+ANO-023,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2026-1372,INV-7029,date_received=2025-06-15 > permit_start=2025-04-17
+ANO-024,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2026-4845,INV-6658,date_received=2025-10-04 > permit_start=2025-08-16
+ANO-025,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2025-2416,INV-4490,date_received=2026-10-05 > permit_start=2026-09-11
+ANO-026,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2025-4982,INV-9922,date_received=2024-11-24 > permit_start=2024-11-21
+ANO-027,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2026-3151,INV-4836,date_received=2025-12-15 > permit_start=2025-12-13
+ANO-028,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2026-3243,INV-1932,date_received=2026-01-27 > permit_start=2026-01-14
+ANO-029,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2025-3476,INV-4584,date_received=2025-06-14 > permit_start=2025-06-01
+ANO-030,C,Inventory item received AFTER PTW permit start (used before arrival),PTW-2026-5127,INV-1528,date_received=2025-01-12 > permit_start=2024-12-24
