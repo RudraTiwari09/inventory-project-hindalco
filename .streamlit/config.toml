@@ -12,3 +12,14 @@ toolbarMode = "minimal"
 [browser]
 gatherUsageStats = false
 
+
+[server]
+# Production-safe defaults. Port/address are supplied by the start command
+# (e.g. --server.port $PORT --server.address 0.0.0.0) so nothing is pinned
+# to a non-standard port; the host terminates HTTPS on 443.
+headless = true
+runOnSave = false
+fileWatcherType = "none"
+enableCORS = true
+enableXsrfProtection = true
+maxUploadSize = 200

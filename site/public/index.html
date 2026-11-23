@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recon Dashboard · CPP Inventory × PTW</title>
+  <meta name="description" content="Captive Power Plant inventory and Permit to Work reconciliation dashboard.">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="card">
+    <p class="eyebrow">Captive Power Plant</p>
+    <h1>Inventory × PTW<br>Reconciliation Dashboard</h1>
+    <p class="lede">Reconcile monthly store inventory snapshots against Permit to Work maintenance logs, review variances and export reports.</p>
+
+    <a class="btn" id="open-app" href="__APP_URL__" rel="noopener">Open the dashboard</a>
+
+    <div class="status" id="status" data-state="checking" aria-live="polite">
+      <span class="dot" aria-hidden="true"></span>
+      <span id="status-text">Checking whether the app is reachable from your network…</span>
+    </div>
+
+    <details>
+      <summary>Not loading on a company network?</summary>
+      <ul>
+        <li>The app runs on a Python server at <code id="app-host">__APP_URL__</code> over HTTPS on port 443 and uses secure WebSockets (<code>wss://</code>). Ask IT to allow that host and WebSocket upgrades through the proxy.</li>
+        <li>On the free hosting tier the server sleeps when idle. The first visit can take up to a minute to wake it.</li>
+        <li>For plant data, the safest option is running it inside the plant intranet with the included Dockerfile.</li>
+      </ul>
+    </details>
+  </main>
+  <footer>Internal use only</footer>
+  <script src="./app.js" defer></script>
+</body>
+</html>

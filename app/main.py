@@ -32,6 +32,37 @@ engine = get_engine()
 initialize_database(engine)
 initialize_settings(engine)
 
+
+@st.cache_resource(show_spinner=False)
+def _bootstrap_admin_from_env() -> None:
+    """
+    On a fresh deployment the users table is empty, so nobody can log in.
+    If RECON_ADMIN_USERNAME and RECON_ADMIN_PASSWORD are set, create that admin
+    once (only when no users exist). Credentials never live in source code.
+    """
+    import os
+    from sqlalchemy import text
+    from core.auth import create_user
+
+    username = os.environ.get("RECON_ADMIN_USERNAME", "").strip()
+    password = os.environ.get("RECON_ADMIN_PASSWORD", "")
+    if not username or not password:
+        return
+    with engine.connect() as conn:
+        user_count = conn.execute(text("SELECT COUNT(*) FROM users")).scalar() or 0
+    if user_count == 0:
+        create_user(
+            engine,
+            username=username,
+            password=password,
+            full_name=os.environ.get("RECON_ADMIN_NAME", "").strip() or "Plant Admin",
+            role="admin",
+            created_by="bootstrap",
+        )
+
+
+_bootstrap_admin_from_env()
+
 # Page configuration
 st.set_page_config(
     page_title="Recon",

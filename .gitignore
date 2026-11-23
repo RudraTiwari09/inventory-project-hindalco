@@ -10,13 +10,27 @@ env/
 .venv/
 .env/
 
-# Environment variables
+# Environment variables / secrets
 .env
+.env.*
+*.env
+.streamlit/secrets.toml
+
+# Node / build tooling (Netlify launch page)
+node_modules/
+dist/
+.cache/
 
 # Data files (keep sample/demo CSVs for tests, ignore raw uploads, backups, reports)
 data/raw/
 data/backups/
 data/reports/
+
+# Raw spreadsheets anywhere in the repo; only the mock/sample CSVs in data/ are committed
+*.csv
+*.xlsx
+*.xls
+!data/*.csv
 
 # Logs
 logs/
@@ -26,6 +40,7 @@ logs/
 *.db
 *.sqlite
 *.sqlite3
+*.db-journal
 
 # macOS
 .DS_Store

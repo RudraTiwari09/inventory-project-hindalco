@@ -26,12 +26,25 @@ logger = logging.getLogger(__name__)
 CURRENT_SCHEMA_VERSION = 3
 
 
-def get_engine(db_path: str = "data/reconciliation.db"):
+def get_data_dir() -> str:
+    """
+    Directory for writable runtime data (SQLite DB, backups, raw upload archive).
+    Defaults to ./data; set RECON_DATA_DIR to point at a persistent disk in production.
+    """
+    return os.environ.get("RECON_DATA_DIR") or "data"
+
+
+def get_default_db_path() -> str:
+    """Default SQLite path: RECON_DB_PATH if set, else <data dir>/reconciliation.db."""
+    return os.environ.get("RECON_DB_PATH") or os.path.join(get_data_dir(), "reconciliation.db")
+
+
+def get_engine(db_path: Optional[str] = None):
     """
     Return a (cached) SQLAlchemy engine for the given SQLite database path.
     Creates parent directories if necessary.
     """
-    db_path = os.path.abspath(db_path)
+    db_path = os.path.abspath(db_path or get_default_db_path())
 
     if db_path in _engine_cache:
         return _engine_cache[db_path]

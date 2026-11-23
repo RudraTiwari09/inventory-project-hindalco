@@ -13,6 +13,7 @@ from sqlalchemy import text
 
 from core.audit import log_audit_event
 from core.auth import require_admin
+from core.database import get_data_dir, get_default_db_path
 
 logger = logging = __import__("logging").getLogger(__name__)
 
@@ -31,7 +32,7 @@ def archive_raw_file(
     hash8 = __import__("hashlib").sha256(file_bytes).hexdigest()[:8]
     ext = os.path.splitext(filename)[1].lower()
 
-    target_dir = os.path.abspath(os.path.join("data", "raw", dataset))
+    target_dir = os.path.abspath(os.path.join(get_data_dir(), "raw", dataset))
     os.makedirs(target_dir, exist_ok=True)
 
     dest_filename = f"{clean_period}_{hash8}{ext}"
@@ -54,18 +55,18 @@ def archive_raw_file(
 
 
 def backup_database(
-    db_path: str = "data/reconciliation.db",
+    db_path: Optional[str] = None,
     max_backups: int = 12,
 ) -> Optional[str]:
     """
     Create a timestamped backup of the SQLite database in data/backups/.
     Retains the latest `max_backups` copies.
     """
-    abs_db = os.path.abspath(db_path)
+    abs_db = os.path.abspath(db_path or get_default_db_path())
     if not os.path.exists(abs_db):
         return None
 
-    backup_dir = os.path.abspath(os.path.join("data", "backups"))
+    backup_dir = os.path.abspath(os.path.join(get_data_dir(), "backups"))
     os.makedirs(backup_dir, exist_ok=True)
 
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")

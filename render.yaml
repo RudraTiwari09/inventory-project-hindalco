@@ -1,0 +1,34 @@
+# Render Blueprint — one-click deploy of the Streamlit app over HTTPS (port 443).
+# Deploy: https://render.com/deploy?repo=https://github.com/RudraTiwari09/inventory-project-hindalco
+services:
+  - type: web
+    name: inventory-project-hindalco
+    runtime: python
+    plan: free
+    region: singapore
+    branch: main
+    autoDeploy: true
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: streamlit run app/main.py --server.port $PORT --server.address 0.0.0.0
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+        value: "false"
+      # First-run admin account (created only when the user table is empty).
+      # Values are entered in the Render dashboard during deploy, never committed.
+      - key: RECON_ADMIN_USERNAME
+        sync: false
+      - key: RECON_ADMIN_PASSWORD
+        sync: false
+      - key: RECON_ADMIN_NAME
+        value: Plant Admin
+    # The free plan has an ephemeral filesystem: the SQLite DB resets on every
+    # restart/redeploy. For persistent data, switch to a paid plan and uncomment:
+    # plan: starter
+    # disk:
+    #   name: recon-data
+    #   mountPath: /var/data
+    #   sizeGB: 1
+    # and add env var RECON_DATA_DIR=/var/data
